@@ -9,5 +9,17 @@
             "20"
         ],
         "answer": "a"
-    }
+    },
+    {
+                            "question": "Un hombre camina \\(3\\sqrt{2} \\) m en una dirección que forma 45° con el norte contados hacia el oeste, luego 3 m hacia el sur, a continuación 5 m hacia el este y finalmente \\(2\\sqrt{2} \\) m en una dirección que forma 45° con el norte contados hacia el este, el desplazamiento resultante del hombre, es en m:",
+                            "imageURL": "",
+                            "options": [
+                                "\\(2\\sqrt{5} \\)",
+                                "\\(2\\sqrt{2} \\)",
+                                "\\(5\\sqrt{2} \\)",
+                                "\\(4\\sqrt{2} \\)",
+                                "\\(5\\sqrt{5} \\)"
+                            ],
+                            "answer": "a"
+                        }
 }
