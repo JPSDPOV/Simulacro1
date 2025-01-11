@@ -1,0 +1,5 @@
+{
+                question: "Si el dividendo es 150 y el divisor es 7. ¿Qué valor tiene el cociente por exceso?",
+                options: ["22", "21", "23", "24", "20"],
+                correct: 0
+            }
