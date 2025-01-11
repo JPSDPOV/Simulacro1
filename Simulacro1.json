@@ -21,6 +21,18 @@
                 "Roma"
             ],
             "answer": "c"
+        },
+        {
+            "question": "Admitiendo que cada cuadrito mide 1u x 1u, el módulo de la suma de los vectores indicados en la figura es igual a:",
+            "imageURL": "https://drive.google.com/thumbnail?id=1VigsSolnJ3_CPD3frn1qwz7ztmthlwvx",
+            "options": [
+                "1 u",
+                "3 u",
+                "5 u",
+                "2 u",
+                "4 u"
+            ],
+            "asnwer": "c"
         }
     ]
 }
