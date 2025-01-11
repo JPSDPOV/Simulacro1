@@ -1,23 +1,26 @@
 {
-    "questions": {
-        "question": "Si el dividendo es 150 y el divisor es 7. ¿Qué valor tiene el cociente por exceso?",
-        "options": [
-            "22",
-            "21",
-            "23",
-            "24",
-            "20"
-        ],
-        "answer": "a",
-        "question": "Un hombre camina \\(3\\sqrt{2} \\) m en una dirección que forma 45° con el norte contados hacia el oeste, luego 3 m hacia el sur, a continuación 5 m hacia el este y finalmente \\(2\\sqrt{2} \\) m en una dirección que forma 45° con el norte contados hacia el este, el desplazamiento resultante del hombre, es en m:",
-        "imageURL": "",
-        "options": [
-            "\\(2\\sqrt{5} \\)",
-            "\\(2\\sqrt{2} \\)",
-            "\\(5\\sqrt{2} \\)",
-            "\\(4\\sqrt{2} \\)",
-            "\\(5\\sqrt{5} \\)"
-        ],
-        "answer": "a"
-    }
+    "questions": [
+        {
+            "question": "Si el dividendo es 150 y el divisor es 7. ¿Qué valor tiene el cociente por exceso?",
+            "options": [
+                "22",
+                "21",
+                "23",
+                "24",
+                "20"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "¿Cuál es la capital de Francia?",
+            "options": [
+                "Berlín",
+                "Madrid",
+                "París",
+                "Lisboa",
+                "Roma"
+            ],
+            "answer": "c"
+        }
+    ]
 }
