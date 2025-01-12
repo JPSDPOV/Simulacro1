@@ -166,7 +166,7 @@
             "answer": "d"
         },
         {
-            "question": "Si 7<sup>m</sup>.5<sup>n</sup>.3<sup>p</sup>.2<sup>1</sup> = 8100 con m, n, p y q números enteros, entonces m.n + p.q es:",
+            "question": "Si 7<sup>m</sup>.5<sup>n</sup>.3<sup>p</sup>.2<sup>q</sup> = 8100 con m, n, p y q números enteros, entonces m.n + p.q es:",
             "options": [
                 "0",
                 "8",
