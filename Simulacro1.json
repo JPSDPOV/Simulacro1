@@ -100,37 +100,37 @@
             "answer": "b"
         },
         {
-            "question": "El número resultante de la expresión \\(\\left( 1+\\frac{1}{1+\\frac{1}{5}} \\right) \\div \\left( 1-\\frac{1-\\frac{1}{5}}{6} \\right)  \\)",
+            "question": "El número resultante de la expresión \\(\\left( 1+\\frac{1}{1+\\frac{1}{5}} \\right) \\div \\left( 1-\\frac{1-\\frac{1}{5}}{6} \\right)  \\), es:",
             "options": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "entero positivo",
+                "entero negativo",
+                "decimal periódico",
+                "racional",
+                "irracional"
             ],
-            "answer": ""
+            "answer": "d"
         },
         {
-            "question": "",
+            "question": "El menor número por el que se debe multiplicar 84 para obtener un cuadrado perfecto es:",
             "options": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "18",
+                "12",
+                "27",
+                "21",
+                "35"
             ],
-            "answer": ""
+            "answer": "d"
         },
         {
-            "question": "",
+            "question": "Marca la afirmación correcta:",
             "options": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "El resto de una división es siempre mayor que el divisor",
+                "El resto de una división es siempre igual al divisor",
+                "El resto de una división es siempre menor que el divisor",
+                "El resto de una división es siempre cero",
+                "El resto de una división es siempre igual al cociente"
             ],
-            "answer": ""
+            "answer": "c"
         },
         {
             "question": "",
