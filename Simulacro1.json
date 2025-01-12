@@ -1,49 +1,224 @@
 {
     "questions": [
         {
-            "question": "Si el dividendo es 150 y el divisor es 7. ¿Qué valor tiene el cociente por exceso?",
+            "question": "La suma de los divisores comunes de 12, 15 y 18 es:",
             "options": [
-                "22",
-                "21",
-                "23",
-                "24",
-                "20"
+                "9",
+                "12",
+                "4",
+                "3",
+                "10"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "La diferencia de dos números es 25 y la división del mayor entre el menor da 2 de cociente y 10 de residuo. El mayor es:",
+            "options": [
+                "40",
+                "20",
+                "15",
+                "60",
+                "30"
             ],
             "answer": "a"
         },
         {
-            "question": "¿Cuál es la capital de Francia?",
+            "question": "La suma de los seis primeros números compuestos pertenecientes al conjunto de los números naturales es:",
             "options": [
-                "Berlín",
-                "Madrid",
-                "París",
-                "Lisboa",
-                "Roma"
+                "54",
+                "41",
+                "42",
+                "49",
+                "43"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "Tres personas poseen juntos un capital de 2500 $. Los capitales correspondientes a los dos primeros son iguales. El capital de la tercera persona es 1/2 de lo que le corresponde a uno de los anteriores. ¿Cuánto es el capital de la tercera persona?",
+            "options": [
+                "1500",
+                "2000",
+                "500",
+                "250",
+                "750"
             ],
             "answer": "c"
         },
         {
-            "question": "Admitiendo que cada cuadrito mide 1u x 1u, el módulo de la suma de los vectores indicados en la figura es igual a:",
-            "imageURL": "https://drive.google.com/thumbnail?id=1VigsSolnJ3_CPD3frn1qwz7ztmthlwvx",
+            "question": "Se paga el quíntuplo del 1/4 de los 4/7 de una deuda de $35994. ¿Cuál es el saldo en $?",
             "options": [
-                "1 u",
-                "3 u",
-                "5 u",
-                "2 u",
-                "4 u"
+                "25710",
+                "5284",
+                "10284",
+                "14260",
+                "8842"
             ],
-            "answer": "c"
+            "answer": "a"
         },
         {
-            "question": "Un vector \\(\\vec{A} \\) forma un ángulo de 150° con el eje de las x positivas. La relación entre sus componentes \\(\\vec{A}_x \\) y \\(\\vec{A}_y\\) es igual a:",
+            "question": "Al dividir N con el 9, el residuo es 0, al dividirlo con el 5, se obtiene como residuo la unidad. Siendo c<sub>1</sub> 3 unidades menor c<sub>2</sub> ¿Cuál es el valor de N?",
             "options": [
-                "\\(-\\sqrt{3} \\)",
-                "\\(\\frac{\\sqrt{3}}{3} \\)",
-                "\\(\\sqrt{3} \\)",
-                "\\(1 \\)",
-                "\\(\\frac{\\sqrt{3}}{2} \\)"
+                "36",
+                "54",
+                "39",
+                "47",
+                "34"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "La suma de los tres elementos de una resta es igual a 9580. El minuendo excede al la diferencia en 2570. La cifra de mayor valor relativo del minuendo es:",
+            "options": [
+                "2",
+                "5",
+                "9",
+                "4",
+                "7"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "La suma de las edades de un padre y su hijo es 42 años; si la edad del padre es numéricamente igual al cuadrado de la de su hijo. ¿Dentro de cuántos años la edad del padre será el cuádruple de la edad de su hijo?",
+            "options": [
+                "6",
+                "7",
+                "8",
+                "4",
+                "12"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "En un día de colegio, la tercera parte de un curso de 48 alumnos no asisten a clases. Si entre los asistentes el número de hombres es el triple que el de mujeres. La diferencia entre la cantidad de hombres y mujeres que asisten, es:",
+            "options": [
+                "10",
+                "16",
+                "18",
+                "8",
+                "24"
             ],
             "answer": "b"
+        },
+        {
+            "question": "El número resultante de la expresión \\(\\left( 1+\\frac{1}{1+\\frac{1}{5}} \\right) \\div \\left( 1-\\frac{1-\\frac{1}{5}}{6} \\right)  \\)",
+            "options": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "answer": ""
+        },
+        {
+            "question": "",
+            "options": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "answer": ""
+        },
+        {
+            "question": "",
+            "options": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "answer": ""
+        },
+        {
+            "question": "",
+            "options": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "answer": ""
+        },
+        {
+            "question": "",
+            "options": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "answer": ""
+        },
+        {
+            "question": "",
+            "options": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "answer": ""
+        },
+        {
+            "question": "",
+            "options": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "answer": ""
+        },
+        {
+            "question": "",
+            "options": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "answer": ""
+        },
+        {
+            "question": "",
+            "options": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "answer": ""
+        },
+        {
+            "question": "",
+            "options": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "answer": ""
+        },
+        {
+            "question": "",
+            "options": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "answer": ""
         }
     ]
 }
