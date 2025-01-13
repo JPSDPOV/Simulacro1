@@ -1,7 +1,7 @@
 {
     "questions": [
         {
-            "question": "Los vectores \\(\\vec{A} \\) y \\(\\vec{B} \\) forman entre sí un ángulo de 60° y el módulo de \\(\\vec{A} \\) vale 3. Hallar el módulo de \\(\\vec{B} \\), para que \\(\\vec{A} \\) - \\(\\vec{B} \\) sea perpendicular a \\(\\vec{A} \\)", 
+            "question": "Los vectores \\(\\vec{A} \\) y \\(\\vec{B} \\) forman entre sí un ángulo de 60° y el módulo de \\(\\vec{A} \\) vale 3. Hallar el módulo de \\(\\vec{B} \\), para que \\(\\vec{A} - \\vec{B} \\) sea perpendicular a \\(\\vec{A} \\)", 
             "options": [
                 "\\(\\sqrt{3} \\)",
                 "\\(3 \\)",
