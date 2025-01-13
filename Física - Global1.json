@@ -12,213 +12,213 @@
             "answer": "c"
         },
         {
-            "question": "La diferencia de dos números es 25 y la división del mayor entre el menor da 2 de cociente y 10 de residuo. El mayor es:",
+            "question": "El ángulo entre dos vectores de 5 y 10 unidades de módulo, cuando su resultante forma un ángulo de 30° con el vector mayor es:",
             "options": [
-                "40",
+                "30°",
+                "45°",
+                "60°",
+                "37°",
+                "120°"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Al descomponer un vector que forma 45° con la horizontal, se obtiene siempre",
+            "options": [
+                "una componente horizontal positiva y una componente vertical positiva",
+                "una componente vertical negativa y una componente horizontal positiva",
+                "una componente que forma el mismo ángulo que la componente vertical con el eje x positivo",
+                "una componente horizontal del mismo módulo que la componente vertical",
+                "todas son correctas"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "La relación entre la suma de dos vectores ´de igual módulo y su diferencia cuando forman un ángulo de 60° es:",
+            "options": [
+                "\\(\\sqrt{3} \\)",
+                "\\(\\frac{\\sqrt{3}}{2} \\)", 
+                "\\(\\frac{1}{\\sqrt{3}} \\)",
+                "\\(1 \\)",
+                "\\(2 \\)"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "La resultante de un vector A de módulo x con el vector B de módulo 2x, no podrá valer:",
+            "options": [
+                "menos que x",
+                "más que 2x",
+                "más de 3x",
+                "x",
+                "1,5x"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Un hombre sale de su casa y camina 8 km al norte, luego 4 km al oeste y finalmente 5 km al sur. En esas condiciones, para retornar a su casa debe desplazarse:",
+            "options": [
+                "3 km al este y 4 km al norte",
+                "4 km al oeste y 3 km al sur",
+                "5 km al sur del este",
+                "3 km al sur y 4 km al este",
+                "5 km al este del sur"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "Un vector de módulo 6 u, se orienta perpendicularmente a otro vector de módulo 8 u. Calcular el valor de la resultante",
+            "options": [
                 "20",
                 "15",
-                "60",
-                "30"
-            ],
-            "answer": "a"
-        },
-        {
-            "question": "La suma de los seis primeros números compuestos pertenecientes al conjunto de los números naturales es:",
-            "options": [
-                "54",
-                "41",
-                "42",
-                "49",
-                "43"
-            ],
-            "answer": "d"
-        },
-        {
-            "question": "Tres personas poseen juntos un capital de 2500 $. Los capitales correspondientes a los dos primeros son iguales. El capital de la tercera persona es 1/2 de lo que le corresponde a uno de los anteriores. ¿Cuánto es el capital de la tercera persona?",
-            "options": [
-                "1500",
-                "2000",
-                "500",
-                "250",
-                "750"
-            ],
-            "answer": "c"
-        },
-        {
-            "question": "Se paga el quíntuplo del 1/4 de los 4/7 de una deuda de $35994. ¿Cuál es el saldo en $?",
-            "options": [
-                "25710",
-                "5284",
-                "10284",
-                "14260",
-                "8842"
-            ],
-            "answer": "a"
-        },
-        {
-            "question": "Al dividir N con el 9, el residuo es 0, al dividirlo con el 5, se obtiene como residuo la unidad. Siendo c<sub>1</sub> 3 unidades menor c<sub>2</sub> ¿Cuál es el valor de N?",
-            "options": [
-                "36",
-                "54",
-                "39",
-                "47",
-                "34"
-            ],
-            "answer": "a"
-        },
-        {
-            "question": "La suma de los tres elementos de una resta es igual a 9580. El minuendo excede al la diferencia en 2570. La cifra de mayor valor relativo del minuendo es:",
-            "options": [
-                "2",
-                "5",
-                "9",
-                "4",
-                "7"
-            ],
-            "answer": "d"
-        },
-        {
-            "question": "La suma de las edades de un padre y su hijo es 42 años; si la edad del padre es numéricamente igual al cuadrado de la de su hijo. ¿Dentro de cuántos años la edad del padre será el cuádruple de la edad de su hijo?",
-            "options": [
-                "6",
-                "7",
-                "8",
-                "4",
-                "12"
-            ],
-            "answer": "d"
-        },
-        {
-            "question": "En un día de colegio, la tercera parte de un curso de 48 alumnos no asisten a clases. Si entre los asistentes el número de hombres es el triple que el de mujeres. La diferencia entre la cantidad de hombres y mujeres que asisten, es:",
-            "options": [
-                "10",
-                "16",
+                "|3",
                 "18",
-                "8",
-                "24"
-            ],
-            "answer": "b"
-        },
-        {
-            "question": "El número resultante de la expresión \\(\\left( 1+\\frac{1}{1+\\frac{1}{5}} \\right) \\div \\left( 1-\\frac{1-\\frac{1}{5}}{6} \\right)  \\), es:",
-            "options": [
-                "entero positivo",
-                "entero negativo",
-                "decimal periódico",
-                "racional",
-                "irracional"
-            ],
-            "answer": "d"
-        },
-        {
-            "question": "El menor número por el que se debe multiplicar 84 para obtener un cuadrado perfecto es:",
-            "options": [
-                "18",
-                "12",
-                "27",
-                "21",
-                "35"
-            ],
-            "answer": "d"
-        },
-        {
-            "question": "Marca la afirmación correcta:",
-            "options": [
-                "El resto de una división es siempre mayor que el divisor",
-                "El resto de una división es siempre igual al divisor",
-                "El resto de una división es siempre menor que el divisor",
-                "El resto de una división es siempre cero",
-                "El resto de una división es siempre igual al cociente"
-            ],
-            "answer": "c"
-        },
-        {
-            "question": "Anabel dice a sus amigos: \"pensé en un número, lo dividí por 5, sumé 7, dividí por 2 y finalmente resté 6, obteniendo 29 como resultado\". La suma de las cifras del número en el que pensó Anabel es:",
-            "options": [
-                "un número primo",
-                "un número múltiplo del 2",
-                "un número divisor del 20",
-                "un número compuesto de dos cifras",
-                "un número cuadrado perfecto"
+                "10"
             ],
             "answer": "e"
         },
         {
-            "question": "En una reunión de 100 personas, 7 de cada 10 son mujeres, luego de media hora llegan 10 parejas más a la reunión. La relación entre la cantidad de hombres y mujeres en esa reunión es:",
+            "question": "Si la máxima suma entre dos vectores es de 35 u y la mínima suma es de 12 u, el vector de mayor módulo que logra eso es:",
             "options": [
-                "1/2",
-                "7/15",
-                "2",
-                "1/3",
-                "2/5"
+                "23,5 u",
+                "11,5 u",
+                "24,5 u",
+                "12,5 u",
+                "30 u"
             ],
             "answer": "a"
         },
         {
-            "question": "La diferencia entre dos números es 64 y la división entre el mayor y el menor da 3 de cociente y 18 de residuo. Entonces el menor es:",
+            "question": "Los vectores A = 5 u y B = 8 u, están dispuestos perpendicularmente en un sistema, entonces su vector diferencia vale",
             "options": [
-                "20",
-                "28",
-                "29",
-                "23",
-                "87"
-            ],
-            "answer": "d"
-        },
-        {
-            "question": "Si 7<sup>m</sup>.5<sup>n</sup>.3<sup>p</sup>.2<sup>q</sup> = 8100 con m, n, p y q números enteros, entonces m.n + p.q es:",
-            "options": [
-                "0",
-                "8",
-                "-8",
-                "4",
-                "-4"
+                "10 u",
+                "9,4 u",
+                "8,76 u",
+                "3,62 u",
+                "13 u"
             ],
             "answer": "b"
         },
         {
-            "question": "Siendo m = 4,6787878... y n = \\(\\sqrt[3]{-27} \\), podemos afirmar que:",
+            "question": "En una carretera, se ve a dos vehículos aproximándose, separados inicialmente 500 m, van en sentidos contrarios con velocidades constantes de 36 km/h y 72 km/h, respectivamente, al cabo de cuánto tiempo estarán separados a 200 m:",
             "options": [
-                "m es racional, n es irracional",
-                "m es decimal periódico puro, n es entero positivo",
-                "m es decimal no periódico, n es natural",
-                "m es real, n es imaginario",
-                "m es decimal periódico mixto, n es entero negativo"
-            ],
-            "answer": "e"
-        },
-        {
-            "question": "Hace 8 años la edad de Agustina era el triple de la edad de Betania y dentro de 4 años la edad de Betania será los 5/9 de la edad de Agustina. La edad actual de Agustina, en años, es:",
-            "options": [
-                "32",
-                "16",
-                "30",
-                "14",
-                "18"
+                "10 s",
+                "30 s",
+                "13 s",
+                "16 s",
+                "11 s"
             ],
             "answer": "a"
         },
         {
-            "question": "Dos números enteros consecutivos pares tales que la suma de sus recíprocos es 7/24 respectivamente son:",
+            "question": "Un colectivo de 55 m tarda 4,55 s en cruzar un puente a una velocidad constante de 100 m/s. La longitud del puente es, en m:",
             "options": [
-                "2 y 4",
-                "6 y 8",
-                "10 y 12",
-                "14 y 16",
-                "16 y 18"
+                "400",
+                "300",
+                "600",
+                "700",
+                "350"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "Un tren pasa al lado de un observador y lo cruza completamente luego de 7 s. Si el tren iba a una velocidad constante de 108 km/h. La londitud del tren es:",
+            "options": [
+                "200 m",
+                "210 m",
+                "220 m",
+                "756 m",
+                "500 m"
             ],
             "answer": "b"
         },
         {
-            "question": "¿Cuáles son los múltiplos comunes del 3 y 9, menores que 50?",
+            "question": "Un móvil presenta la ecuación horaria en el SI, S= 4t. La distancia recorrida por el móvil en el octavo segundo de su movimiento es:",
             "options": [
-                "3, 9, 18, 27, 36",
-                "9, 18, 27, 36, 45, 48",
-                "3, 9, 18, 27, 36, 45",
-                "1, 3, 9, 18, 27, 36, 45",
-                "9, 18, 27, 36, 45"
+                "32 m",
+                "12 m",
+                "48 m",
+                "4 m",
+                "16 m"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "Un móvil tiene la función horaria S = 4 - 8t (SI), por ello el tiempo en que tarda en pasar por el origen es:",
+            "options": [
+                "0,5 s",
+                "1 s",
+                "2 s",
+                "4 s",
+                "0,25 s"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "Un móvil tiene la función horaria S = 2 + 3t [SI], por ello se puede afirmar que:", 
+            "options": [
+                "La distancia recorrida es de 30 m a los 10 s",
+                "Su velocidad escalar es de 2 m/s",
+                "Su posición inicial es de 2 cm",
+                "El movimiento del coche es regresivo",
+                "la variación de posición del móvil es de 32 m"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "La ecuación horaria de los móviles A y B, en el SI, es la siguiente: S<sub>A</sub> = 20 + 6t y S<sub>B</sub> = 60 - 4t. A partir de ese momento, al cabo de cuánto tiempo, en segundos, se encontrarán ambos móviles",
+            "options": [
+                "4 s",
+                "8 s",
+                "20 s",
+                "30 s",
+                "15 s"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "Una moto recorre 3 tramos, el primero con una velocidad media de 36 km/h, el segundo con una velocidad media de 10 m/s y el tercero con velocidad media de 20000 m/h. Si los 3 tramos tienen la misma longitud, podemos concluir que:",
+            "options": [
+                "el último tramo lo recorrió en más tiempo que los anteriores",
+                "la suma de los tiempos que le llevo completar los dos primeros tramos es menor que el tiempo del último tramo",
+                "la trayectoria del primer y segundo tramo son rectilíneas e iguales",
+                "el tiempo que le llevó recorrer el último tramo es un cuaro del tiempo que le llevó recorrer la suma de los dos primeros tramos",
+                "ninguna de las afirmaciones anteriores es correcta"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "Un ciclista realiza media vuelta sobre una pista circular con el módulo de su velocidad constante, entonces podemos afirmar lo siguiente:",
+            "options": [
+                "su rapidez media se puede calcular dividiendo el radio del circulo con el tiempo transcurrido",
+                "su velocidad media se puede calcular dividiendo el diámetro de la circunferencia con el tiempo transcurrido",
+                "su velocidad escalar media se puede calcular divisiendo el perímetro de la circunferencia con la mitad del tiempo transcurrido",
+                "su aceleración vale cero, por ser un movimiento rectilíneo",
+                "su velocidad vectorial media vale cero"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Sea la ecuación S = f(t) donde los datos están en el SI, S = -4 + V.t, en el tiempo t = 8 s, el móvil habrá:",
+            "options": [
+                "pasado por el origen de posiciones con un movimiento regresivo",
+                "cambiado de sentido al pasar por el origen de posiciones",
+                "permanecido en reposo",
+                "terminado su recorrido en el origen de posiciones si su velocidad fue de 0,5 km/h",
+                "mantenido su velocidad constante y su aceleración igual a cero"
             ],
             "answer": "e"
+        },
+        {
+            "question": "Un automóvil A sale de un punto, en línea recta con una velocidad constante de 20 m/s. Al cabo de 10 segundos sale en su persecución otro automóvil B desde el mismo punto que A en la misma dirección y sentido con una velocidad de 30 m/s. ¿A qué distancia del punto de partida alcanzará el automóvil B al automóvil A?",
+            "options": [
+                "300 m",
+                "400 m",
+                "500 m",
+                "600 m",
+                "no lo alcanzará"
+            ],
+            "answer": "d"
         }
     ]
 }
