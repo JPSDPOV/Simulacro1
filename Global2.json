@@ -102,7 +102,7 @@
         {
             "question": "Una partícula es lanzada con una velocidad de 100 m/s. Si su altura máxima es de 125 m, la velocidad de la partícula a los 4 s de movimiento es:",
             "options": [
-                "10/19 m/s",
+                "\\(10/19 \\) m/s",
                 "\\(10\\sqrt{19}  \\) m/s",  
                 "\\(100  \\) m/s",
                 "\\(20\\sqrt{19}  \\) m/s",
@@ -111,62 +111,62 @@
             "answer": "d"
         },
         {
-            "question": "Un colectivo de 55 m tarda 4,55 s en cruzar un puente a una velocidad constante de 100 m/s. La longitud del puente es, en m:",
+            "question": "Un proyectil se dispara desde el piso oblicuamente permaneciendo en el aire 10 s. Si el cuerpo se disparase con la misma velocidad pero con el doble de inclinación se lograría igual alcance que en el caso anterior. El valor del alcance es:",
             "options": [
-                "400",
-                "300",
-                "600",
-                "700",
-                "350"
-            ],
-            "answer": "a"
-        },
-        {
-            "question": "Un tren pasa al lado de un observador y lo cruza completamente luego de 7 s. Si el tren iba a una velocidad constante de 108 km/h. La londitud del tren es:",
-            "options": [
-                "200 m",
-                "210 m",
-                "220 m",
-                "756 m",
-                "500 m"
-            ],
-            "answer": "b"
-        },
-        {
-            "question": "Un móvil presenta la ecuación horaria en el SI, S= 4t. La distancia recorrida por el móvil en el octavo segundo de su movimiento es:",
-            "options": [
-                "32 m",
-                "12 m",
-                "48 m",
-                "4 m",
-                "16 m"
+                "\\(980 \\) m",
+                "\\(980\\sqrt{3}  \\) m",
+                "\\(490  \\) m",
+                "\\(490\\sqrt{3}  \\) m",
+                "\\(212  \\) m"
             ],
             "answer": "d"
         },
         {
-            "question": "Un móvil tiene la función horaria S = 4 - 8t (SI), por ello el tiempo en que tarda en pasar por el origen es:",
+            "question": "Dos atletas se mueven en una pista circular, en el mismo sentido. Sus periodos de rotación guardan la relación 2:3. En cierto instante se encuentran y el más veloz se adelanta. Si el más lento completa la vuelta en 30 s. ¿Al cabo de cuánto tiempo volverán a encontrarse?",
             "options": [
-                "0,5 s",
-                "1 s",
-                "2 s",
-                "4 s",
-                "0,25 s"
+                "60 s",
+                "24 s",
+                "18 s",
+                "12 s",
+                "120 s"
             ],
             "answer": "a"
         },
         {
-            "question": "Un móvil tiene la función horaria S = 2 + 3t [SI], por ello se puede afirmar que:", 
+            "question": "Un mecánico traslada a la rueda de un automóvil, de 80 cm de diámetro, haciéndola girar sin deslizar. La longitud de las marcas que dicha rueda deja en la arena es de 140π m. El número de vueltas que efectua entonces la rueda, es igual a:",
             "options": [
-                "La distancia recorrida es de 30 m a los 10 s",
-                "Su velocidad escalar es de 2 m/s",
-                "Su posición inicial es de 2 cm",
-                "El movimiento del coche es regresivo",
-                "la variación de posición del móvil es de 32 m"
+                "320",
+                "87,5",
+                "700",
+                "175",
+                "180"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "Un niño que gira en una calesita, describiendo un circulo de 3 m de radio con movimiento uniforme, observa que pasa frente a su mamá cada 20 s. La velocidad angular con la que gira la calesita es igual a:",
+            "options": [
+                "π/5 rad/s",
+                "3/5 π rad/s",
+                "2/5 π rad/s",
+                "π/10 rad/s",
+                "3/10 π rad/s"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "Un helicóptero que se encuentra a cierta altura comienza a descender verticalmente con una aceleración de 0,2 m/s². Sus aspas tienen una longitud de 5 m y efectúan 300 rpm. El número de gios que han efectuado las aspas mientras el helicóptero desciende 40 m es igual a:", 
+            "options": [
+                "100",
+                "250",
+                "50",
+                "33",
+                "55"
             ],
             "answer": "a"
         },
         {
-            "question": "La ecuación horaria de los móviles A y B, en el SI, es la siguiente: S<sub>A</sub> = 20 + 6t y S<sub>B</sub> = 60 - 4t. A partir de ese momento, al cabo de cuánto tiempo, en segundos, se encontrarán ambos móviles",
+            "question": "",
             "options": [
                 "4 s",
                 "8 s",
