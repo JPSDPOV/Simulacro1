@@ -1,1 +1,224 @@
-
+{
+    "questions": [
+        {
+            "question": "Los vectores \\(\\vec{A} \\) y \\(\\vec{B} \\) forman entre sí un ángulo de 60° y el módulo de \\(\\vec{A} \\) vale 3. Hallar el módulo de \\(\\vec{B} \\), para que \\(\\vec{A} - \\vec{B} \\) sea perpendicular a \\(\\vec{A} \\)", 
+            "options": [
+                "\\(\\sqrt{3} \\)",
+                "\\(3 \\)",
+                "\\(6 \\)",
+                "\\(2\\sqrt{3} \\)",
+                "\\(1 \\)"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "El ángulo entre dos vectores de 5 y 10 unidades de módulo, cuando su resultante forma un ángulo de 30° con el vector mayor es:",
+            "options": [
+                "30°",
+                "45°",
+                "60°",
+                "37°",
+                "120°"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Al descomponer un vector que forma 45° con la horizontal, se obtiene siempre",
+            "options": [
+                "una componente horizontal positiva y una componente vertical positiva",
+                "una componente vertical negativa y una componente horizontal positiva",
+                "una componente que forma el mismo ángulo que la componente vertical con el eje x positivo",
+                "una componente horizontal del mismo módulo que la componente vertical",
+                "todas son correctas"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "La relación entre la suma de dos vectores de igual módulo y su diferencia cuando forman un ángulo de 60° es:",
+            "options": [
+                "\\(\\sqrt{3} \\)",
+                "\\(\\frac{\\sqrt{3}}{2} \\)", 
+                "\\(\\frac{1}{\\sqrt{3}} \\)",
+                "\\(1 \\)",
+                "\\(2 \\)"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "La resultante de un vector A de módulo x con el vector B de módulo 2x, no podrá valer:",
+            "options": [
+                "menos que x",
+                "más que 2x",
+                "más de 3x",
+                "x",
+                "1,5x"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Un hombre sale de su casa y camina 8 km al norte, luego 4 km al oeste y finalmente 5 km al sur. En esas condiciones, para retornar a su casa debe desplazarse:",
+            "options": [
+                "3 km al este y 4 km al norte",
+                "4 km al oeste y 3 km al sur",
+                "5 km al sur del este",
+                "3 km al sur y 4 km al este",
+                "5 km al este del sur"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "Un vector de módulo 6 u, se orienta perpendicularmente a otro vector de módulo 8 u. Calcular el valor de la resultante",
+            "options": [
+                "20",
+                "15",
+                "|3",
+                "18",
+                "10"
+            ],
+            "answer": "e"
+        },
+        {
+            "question": "Si la máxima suma entre dos vectores es de 35 u y la mínima suma es de 12 u, el vector de mayor módulo que logra eso es:",
+            "options": [
+                "23,5 u",
+                "11,5 u",
+                "24,5 u",
+                "12,5 u",
+                "30 u"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "Los vectores A = 5 u y B = 8 u, están dispuestos perpendicularmente en un sistema, entonces su vector diferencia vale",
+            "options": [
+                "10 u",
+                "9,4 u",
+                "8,76 u",
+                "3,62 u",
+                "13 u"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "En una carretera, se ve a dos vehículos aproximándose, separados inicialmente 500 m, van en sentidos contrarios con velocidades constantes de 36 km/h y 72 km/h, respectivamente, al cabo de cuánto tiempo estarán separados a 200 m:",
+            "options": [
+                "10 s",
+                "30 s",
+                "13 s",
+                "16 s",
+                "11 s"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "Un colectivo de 55 m tarda 4,55 s en cruzar un puente a una velocidad constante de 100 m/s. La longitud del puente es, en m:",
+            "options": [
+                "400",
+                "300",
+                "600",
+                "700",
+                "350"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "Un tren pasa al lado de un observador y lo cruza completamente luego de 7 s. Si el tren iba a una velocidad constante de 108 km/h. La londitud del tren es:",
+            "options": [
+                "200 m",
+                "210 m",
+                "220 m",
+                "756 m",
+                "500 m"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Un móvil presenta la ecuación horaria en el SI, S= 4t. La distancia recorrida por el móvil en el octavo segundo de su movimiento es:",
+            "options": [
+                "32 m",
+                "12 m",
+                "48 m",
+                "4 m",
+                "16 m"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "Un móvil tiene la función horaria S = 4 - 8t (SI), por ello el tiempo en que tarda en pasar por el origen es:",
+            "options": [
+                "0,5 s",
+                "1 s",
+                "2 s",
+                "4 s",
+                "0,25 s"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "Un móvil tiene la función horaria S = 2 + 3t [SI], por ello se puede afirmar que:", 
+            "options": [
+                "La distancia recorrida es de 30 m a los 10 s",
+                "Su velocidad escalar es de 2 m/s",
+                "Su posición inicial es de 2 cm",
+                "El movimiento del coche es regresivo",
+                "la variación de posición del móvil es de 32 m"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "La ecuación horaria de los móviles A y B, en el SI, es la siguiente: S<sub>A</sub> = 20 + 6t y S<sub>B</sub> = 60 - 4t. A partir de ese momento, al cabo de cuánto tiempo, en segundos, se encontrarán ambos móviles",
+            "options": [
+                "4 s",
+                "8 s",
+                "20 s",
+                "30 s",
+                "15 s"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "Una moto recorre 3 tramos, el primero con una velocidad media de 36 km/h, el segundo con una velocidad media de 10 m/s y el tercero con velocidad media de 20000 m/h. Si los 3 tramos tienen la misma longitud, podemos concluir que:",
+            "options": [
+                "el último tramo lo recorrió en más tiempo que los anteriores",
+                "la suma de los tiempos que le llevo completar los dos primeros tramos es menor que el tiempo del último tramo",
+                "la trayectoria del primer y segundo tramo son rectilíneas e iguales",
+                "el tiempo que le llevó recorrer el último tramo es un cuaro del tiempo que le llevó recorrer la suma de los dos primeros tramos",
+                "ninguna de las afirmaciones anteriores es correcta"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "Un ciclista realiza media vuelta sobre una pista circular con el módulo de su velocidad constante, entonces podemos afirmar lo siguiente:",
+            "options": [
+                "su rapidez media se puede calcular dividiendo el radio del circulo con el tiempo transcurrido",
+                "su velocidad media se puede calcular dividiendo el diámetro de la circunferencia con el tiempo transcurrido",
+                "su velocidad escalar media se puede calcular divisiendo el perímetro de la circunferencia con la mitad del tiempo transcurrido",
+                "su aceleración vale cero, por ser un movimiento rectilíneo",
+                "su velocidad vectorial media vale cero"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Sea la ecuación S = f(t) donde los datos están en el SI, S = -4 + V.t, en el tiempo t = 8 s, el móvil habrá:",
+            "options": [
+                "pasado por el origen de posiciones con un movimiento regresivo",
+                "cambiado de sentido al pasar por el origen de posiciones",
+                "permanecido en reposo",
+                "terminado su recorrido en el origen de posiciones si su velocidad fue de 0,5 km/h",
+                "mantenido su velocidad constante y su aceleración igual a cero"
+            ],
+            "answer": "e"
+        },
+        {
+            "question": "Un automóvil A sale de un punto, en línea recta con una velocidad constante de 20 m/s. Al cabo de 10 segundos sale en su persecución otro automóvil B desde el mismo punto que A en la misma dirección y sentido con una velocidad de 30 m/s. ¿A qué distancia del punto de partida alcanzará el automóvil B al automóvil A?",
+            "options": [
+                "300 m",
+                "400 m",
+                "500 m",
+                "600 m",
+                "no lo alcanzará"
+            ],
+            "answer": "d"
+        }
+    ]
+}
