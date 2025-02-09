@@ -1,84 +1,84 @@
 {
     "questions": [
         {
-            "question": "Los vectores \\(\\vec{A} \\) y \\(\\vec{B} \\) forman entre sí un ángulo de 60° y el módulo de \\(\\vec{A} \\) vale 3. Hallar el módulo de \\(\\vec{B} \\), para que \\(\\vec{A} - \\vec{B} \\) sea perpendicular a \\(\\vec{A} \\)", 
+            "question": "Rodrigo lanza una moneda desde el borde superior de un edificio verticalmente hacia arriba con una velocidad de 25 m/s que tarda 9 s en impactar en el piso (g = 10 m/s²). ¿Cuánto tardaría en llegar al piso si en lugar de lanzarlo lo deja caer de la misma altura?", 
             "options": [
-                "\\(\\sqrt{3} \\)",
-                "\\(3 \\)",
-                "\\(6 \\)",
-                "\\(2\\sqrt{3} \\)",
-                "\\(1 \\)"
+                "4 s",
+                "6 s",
+                "5 s",
+                "8 s",
+                "8,8 s"
             ],
-            "answer": "c"
+            "answer": "b"
         },
         {
-            "question": "El ángulo entre dos vectores de 5 y 10 unidades de módulo, cuando su resultante forma un ángulo de 30° con el vector mayor es:",
+            "question": "La longitud de una estación férrea es igual a 60 m. Un tren de carga que se mueve a 45 km/h pasa a lo largo de la plataforma en 16 s. La longitud del tren es:",
             "options": [
-                "30°",
-                "45°",
-                "60°",
-                "37°",
-                "120°"
-            ],
-            "answer": "c"
-        },
-        {
-            "question": "Al descomponer un vector que forma 45° con la horizontal, se obtiene siempre",
-            "options": [
-                "una componente horizontal positiva y una componente vertical positiva",
-                "una componente vertical negativa y una componente horizontal positiva",
-                "una componente que forma el mismo ángulo que la componente vertical con el eje x positivo",
-                "una componente horizontal del mismo módulo que la componente vertical",
-                "todas son correctas"
-            ],
-            "answer": "d"
-        },
-        {
-            "question": "La relación entre la suma de dos vectores de igual módulo y su diferencia cuando forman un ángulo de 60° es:",
-            "options": [
-                "\\(\\sqrt{3} \\)",
-                "\\(\\frac{\\sqrt{3}}{2} \\)", 
-                "\\(\\frac{1}{\\sqrt{3}} \\)",
-                "\\(1 \\)",
-                "\\(2 \\)"
+                "140 m",
+                "260 m",
+                "200 m",
+                "375 m",
+                "150 m"
             ],
             "answer": "a"
         },
         {
-            "question": "La resultante de un vector A de módulo x con el vector B de módulo 2x, no podrá valer:",
+            "question": "Desde un balcón a 20 m de la calle se lanza verticalmente hacia abajo una pelota con una rapidez de 15 m/s en el mismo instante en que una segunda pelota se lanza hacia arriba con la misma rapidez (g = 10 m/s²) desde la misma posición. La separación entre ambas pelotas, a los 0,8 s de ser lanzadas es igual a:",
             "options": [
-                "menos que x",
-                "más que 2x",
-                "más de 3x",
-                "x",
-                "1,5x"
-            ],
-            "answer": "c"
-        },
-        {
-            "question": "Un hombre sale de su casa y camina 8 km al norte, luego 4 km al oeste y finalmente 5 km al sur. En esas condiciones, para retornar a su casa debe desplazarse:",
-            "options": [
-                "3 km al este y 4 km al norte",
-                "4 km al oeste y 3 km al sur",
-                "5 km al sur del este",
-                "3 km al sur y 4 km al este",
-                "5 km al este del sur"
+                "15,2 m",
+                "8,8 m",
+                "13,6 m",
+                "24 m",
+                "4 m"
             ],
             "answer": "d"
         },
         {
-            "question": "Un vector de módulo 6 u, se orienta perpendicularmente a otro vector de módulo 8 u. Calcular el valor de la resultante",
+            "question": "Un esquiador calcula que si se desplaza a 10 km/h llegará a su cabaña en el bosque a las 13:00 h. Si esquía a 15 km/h llegará a las 11:00 h. La rapidez con que debe esquiar para llegar a la cabaña al medio día debe ser:",
             "options": [
-                "20",
-                "15",
-                "|3",
-                "18",
-                "10"
+                "12 km/h",
+                "12,5 km/h", 
+                "5 km/h",
+                "25 km/h",
+                "2 km/h"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "Un auto parte del reposo con aceleración constante de 2 m/s². Luego de 10 s de su partida, se desconecta el motod y el auto pasa a tener un movimiento retardado con aceeleración constante de módulo igual a 0,5 m/s². La distancia total recorrida por el automóvil hasta quedar nuevamente en reposo fue de:",
+            "options": [
+                "100 m",
+                "200 m",
+                "300 m",
+                "400 m",
+                "500 m"
             ],
             "answer": "e"
         },
         {
-            "question": "Si la máxima suma entre dos vectores es de 35 u y la mínima suma es de 12 u, el vector de mayor módulo que logra eso es:",
+            "question": "Un auto que se mueve a 25 m/s recorre 80 m y en ese trayecto disminuye uniformemente su velocidad hasta 15 m/s. A partir de entonces, el tiempo que emplea hasta detenerse es igual a:",
+            "options": [
+                "10 s",
+                "16 s",
+                "3 s",
+                "6 s",
+                "1,5 s"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "Un móvil A se encuentra en reposo, cuando pasa por el mismo sitio un móvil B con velocidad constante de módulo igual a 8 m/s. En ese mismo instante el móvil A comienza el movimiento con una aceleración constante de módulo igual a 0,2 m/s², en la misma dirección y sentido que B. La velocidad de A cuando alcanza al móvil B es igual a:",
+            "options": [
+                "4 m/s",
+                "8 m/s",
+                "16 m/s",
+                "32 m/s",
+                "64 m/s"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "",
             "options": [
                 "23,5 u",
                 "11,5 u",
