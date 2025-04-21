@@ -186,6 +186,94 @@
                 "Síntesis de proteínas"
             ],
             "answer": "c"
+        },
+        {
+            "question": "¿Qué tipo de relación simbiótica tienen las bacterias del género Rhizobium con las plantas leguminosas?",
+            "options": [
+                "Parasitismo",
+                "Comensalismo",
+                "Mutualismo",
+                "Amensalismo",
+                "Saprofitismo"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Las arqueas acidófilas se desarrollan mejor en ambientes con:",
+            "options": [
+                "pH neutro",
+                "pH extremadamente alcalino",
+                "pH extremadamente ácido",
+                "Alta presión osmótica",
+                "Bajas temperaturas"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "¿Qué característica del ADN de las arqueobacterias las acerca evolutivamente a los eucariotas?",
+            "options": [
+                "Ausencia de cromosomas",
+                "Presencia de histonas",
+                "ADN circular desnudo",
+                "Uso de uracilo en lugar de timina",
+                "Replicación en el citoplasma"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué bacteria es responsable de producir la toxina botulínica, una de las sustancias más letales conocidas?",
+            "options": [
+                "Escherichia coli",
+                "Bacillus anthracis",
+                "Clostridium botulinum",
+                "Salmonella typhi",
+                "Streptococcus pneumoniae"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "¿Qué grupo de bacterias es conocido por producir la mayoría de los antibióticos (estreptomicina, eritromicina, cloranfenicol y las tetraciclinas) utilizados en medicina?",
+            "options": [
+                "Cianobacterias",
+                "Actinomicetos",
+                "Arqueas metanógenas",
+                "Bacterias Gram negativas",
+                "Bacterias quimiolitotróficas"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Las arqueas crenarqueotas son organismos que prosperan en:",
+            "options": [
+                "Ambientes con altas temperaturas (>80°C)",
+                "Ambientes con bajas temperaturas (<15°C)",
+                "Ambientes ricos en sal",
+                "Ambientes ácidos (pH < 3)",
+                "a y b son correctas"
+            ],
+            "answer": "e"
+        },
+        {
+            "question": "¿Qué estructura genética permite a las bacterias adquirir genes de resistencia a antibióticos de forma horizontal?",
+            "options": [
+                "Cromosoma principal",
+                "Plásmidos",
+                "Ribosomas",
+                "Endosporas",
+                "Flagelos"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué proceso utilizan las bacterias para formar biopelículas (biofilms) en superficies?",
+            "options": [
+                "Realización de fotosíntesis",
+                "Proceso de quimiotaxis",
+                "Segregación de sustancia pegajosa rica en polisacáridos",
+                "Conjugación",
+                "Esporulación"
+            ],
+            "answer": "c"
         }
     ]
 }
