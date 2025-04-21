@@ -1,0 +1,257 @@
+{
+    "questions": [
+        {
+            "question": "El paludismo es causado por:",
+            "options": [
+                "un hongo",
+                "un protista",
+                "un mosquito",
+                "un virus",
+                "un prion"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Las arqueobacterias se diferencian de las eubacterias por:",
+            "options": [
+                "carecer de enzimas",
+                "por presentar ribosomas",
+                "carecer de organelos",
+                "carecer de peptidoglicano en la pared celular",
+                "ser procariotas"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "Teniendo en cuenta todos los niveles de organización, la unidad mínima de vida es:",
+            "options": [
+                "molecular",
+                "celular",
+                "tisular",
+                "poblacional",
+                "individual"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Cuál de las siguientes alternativas no se ubica en la membrana plasmática de una célula eucariota?",
+            "options": [
+                "colesterol",
+                "esfingomielina",
+                "fosfatidilcolina",
+                "cardiolipina",
+                "lecitina"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "La obtención de maltosa a partir del almidón corresponde a un ejemplo de:",
+            "options": [
+                "anabolismo",
+                "respuesta a estímulos",
+                "catabolismo",
+                "homeostasis",
+                "ósmosis"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "¿Qué tipo de arqueobacterias pueden sobrevivir a ambientes extremos?",
+            "options": [
+                "halófilas",
+                "metanógenas",
+                "acidófilas",
+                "a y c son correctas",
+                "todas son correctas"
+            ],
+            "answer": "e"
+        },
+        {
+            "question": "Son ejemplos de monosacáridos:",
+            "options": [
+                "ribosa, maltosa, galactosa",
+                "gliceraldehído, dihidroxiacetona, glucosa",
+                "desoxirribosa, lactosa, fructosa",
+                "manosa, glucosa, sacarosa",
+                "n-acetilglucosamina, amilosa, quitina"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "El glicerol corresponde a una molécula:",
+            "options": [
+                "polar e hidrofílica",
+                "apolar e hidrofóbica",
+                "polar e hidrofóbica",
+                "apolar e hidrofílica",
+                "iónica"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "En la clasificación taxonómica, la diferencia entre el gato y el humano está en:",
+            "options": [
+                "el reino",
+                "el orden",
+                "el subfilo",
+                "la clase",
+                "el dominio"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué elemento químico encontramos en todas las proteínas como en los ácidos nucleicos?",
+            "options": [
+                "S",
+                "P",
+                "Ca",
+                "K",
+                "N"
+            ],
+            "answer": "e"
+        },
+        {
+            "question": "Las bacterias con abundante pared celular de peptidoglicano, son reconocidas por la técnica de gram como:",
+            "options": [
+                "gram positivas",
+                "gram negativas",
+                "encapsuladas",
+                "enquistadas",
+                "ninguna de las anteriores"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "Realizan fotosíntesis, pero poseen pared celular de quitina, con estos datos podrías ubicar a esos seres vivos dentro del reino ……………. y el dominio …………….",
+            "options": [
+                "protista - procariota",
+                "eubacteria - eucarya",
+                "fungi - eucarya",
+                "animal - archea",
+                "fungi - procariota"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "La rabia es causada por:",
+            "options": [
+                "togavirus",
+                "ortomixovirus",
+                "paramixovirus",
+                "rabdovirus",
+                "coronavirus"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "¿Cuál de los siguientes no es un proceso observado en organismos vivos?",
+            "options": [
+                "duplicación del material genético",
+                "conjugación",
+                "traducción",
+                "retrotranscripción",
+                "dos son correctas"
+            ],
+            "answer": "e"
+        },
+        {
+            "question": "Símbolo de un aminoácido esencial en la dieta:",
+            "options": [
+                "W",
+                "G",
+                "A",
+                "S",
+                "D"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "Metabolismo es:",
+            "options": [
+                "el modo como el organismo libera energía",
+                "corresponde a la energía total térmica del cuerpo",
+                "la suma de reacciones químicas",
+                "cascada de reacciones químicas que ocurren en determinadas células del cuerpo",
+                "capacidad de regular la temperatura corporal y quemar grasas"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Polisacárido que presenta exclusivamente enlaces del tipo α 1-4:",
+            "options": [
+                "glucógeno",
+                "amilosa",
+                "celulosa",
+                "amilopectina",
+                "dos son correctas"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Los ácidos nucleicos estarán presentes en todas las siguientes, excepto:",
+            "options": [
+                "priones",
+                "bacterias",
+                "adenovirus",
+                "retrovirus",
+                "espermatozoides"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "¿Cuál de las siguientes etapas no corresponde al ciclo lisogénico?",
+            "options": [
+                "Fijación",
+                "Penetración",
+                "Ensamblaje",
+                "Formación de profago",
+                "Replicación"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Estructura de las proteínas en la que solo se representa por su secuencia de aminoácidos",
+            "options": [
+                "Primaria",
+                "Secundaria",
+                "Terciaria",
+                "Cuaternaria",
+                "Todas son correctas"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "¿En qué estructura las proteínas se clasifican en globulares o fibrosas?",
+            "options": [
+                "Primaria",
+                "Secundaria",
+                "Terciaria",
+                "Cuaternaria",
+                "Ninguna es correcta"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "¿Cuál de las siguientes proteínas tiene función motora?",
+            "options": [
+                "Colágeno",
+                "Insulina",
+                "Porina",
+                "Miosina",
+                "Nucleasa"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "Las proteínas globulares son solubles en agua debido a:",
+            "options": [
+                "que poseen un grupo fosfato",
+                "su superficie es polar",
+                "poseen un ión metálico",
+                "posee zonas hidrófobas",
+                "forman enlaces covalentes"
+            ],
+            "answer": "b"
+        }
+    ]
+}
