@@ -67,28 +67,6 @@
             "answer": "b"
         },
         {
-            "question": "¿Qué arqueobacteria está asociada con la obesidad en estudios humanos?",
-            "options": [
-                "Escherichia coli",
-                "Methanobrevibacter smithii",
-                "Thermus aquaticus",
-                "Halobacterium salinarum",
-                "Pyrococcus furiosus"
-            ],
-            "answer": "b"
-        },
-        {
-            "question": "Las cianobacterias son importantes porque:",
-            "options": [
-                "Producen metano",
-                "Fijan nitrógeno atmosférico",
-                "Sintetizan antibióticos",
-                "Degradan petróleo",
-                "Son patógenos humanos"
-            ],
-            "answer": "b"
-        },
-        {
             "question": "¿Qué estructura permite a las bacterias intercambiar material genético?",
             "options": [
                 "Flagelo",
@@ -133,28 +111,6 @@
             "answer": "b"
         },
         {
-            "question": "Las arqueas son más cercanas evolutivamente a:",
-            "options": [
-                "Bacterias Gram negativas",
-                "Hongos",
-                "Plantas",
-                "Eucariotas",
-                "Virus"
-            ],
-            "answer": "d"
-        },
-        {
-            "question": "¿Qué enzima se utiliza en biotecnología, derivada de la arqueobacteria *Thermus aquaticus*?",
-            "options": [
-                "Amilasa",
-                "ADN ligasa",
-                "Taq polimerasa",
-                "Catalasa",
-                "Lipasa"
-            ],
-            "answer": "c"
-        },
-        {
             "question": "La pared celular de las bacterias está compuesta principalmente por:",
             "options": [
                 "Celulosa",
@@ -177,57 +133,13 @@
             "answer": "b"
         },
         {
-            "question": "¿Qué forma es común tanto en bacterias como en arqueobacterias?",
-            "options": [
-                "Estrella",
-                "Cuadrado",
-                "Bacilo",
-                "Espiral",
-                "Filamento"
-            ],
-            "answer": "c"
-        },
-        {
-            "question": "La resistencia a antibióticos en bacterias se debe principalmente a:",
-            "options": [
-                "Presencia de endosporas",
-                "Transferencia horizontal de genes",
-                "Síntesis de lípidos especiales",
-                "Ausencia de membrana celular",
-                "Metabolismo anaeróbico"
-            ],
-            "answer": "b"
-        },
-        {
-            "question": "Las arqueas del género *Halobacterium* utilizan para obtener energía:",
+            "question": "Las arqueas halófilas utilizan para obtener energía:",
             "options": [
                 "Metanogénesis",
                 "Bacteriorrodopsina",
                 "Fermentación",
                 "Fotosíntesis oxigénica",
                 "Quimiolitotrofía"
-            ],
-            "answer": "b"
-        },
-        {
-            "question": "Las bacterias que requieren oxígeno para su metabolismo se clasifican como:",
-            "options": [
-                "Anaerobias estrictas",
-                "Anaerobias facultativas",
-                "Microaerófilas",
-                "Aerobias estrictas",
-                "Termófilas"
-            ],
-            "answer": "d"
-        },
-        {
-            "question": "¿Qué arqueobacteria se encuentra comúnmente en el tracto gastrointestinal humano?",
-            "options": [
-                "Escherichia coli",
-                "Methanosphaera stadmanae",
-                "Salmonella typhi",
-                "Lactobacillus acidophilus",
-                "Clostridium botulinum"
             ],
             "answer": "b"
         },
@@ -257,7 +169,7 @@
             "question": "¿Qué proceso realizan las bacterias nitrificantes?",
             "options": [
                 "Reducen nitrógeno atmosférico",
-                "Oxidan amonio a nitrato",
+                "Oxidan amonio a nitrito o nitrato",
                 "Producen metano",
                 "Fijan CO₂",
                 "Degradan celulosa"
