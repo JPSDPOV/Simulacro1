@@ -34,17 +34,6 @@
             "answer": "b"
         },
         {
-            "question": "La insulina es una hormona proteica. ¿A qué clase de proteínas pertenece?",
-            "options": [
-                "Proteínas estructurales",
-                "Proteínas reguladoras",
-                "Proteínas de defensa",
-                "Proteínas de movimiento",
-                "Proteínas de transporte"
-            ],
-            "answer": "b"
-        },
-        {
             "question": "¿Qué proteínas son esenciales para la contracción muscular?",
             "options": [
                 "Queratinas",
@@ -67,17 +56,6 @@
             "answer": "b"
         },
         {
-            "question": "¿Cuál es el nivel de organización proteica que se refiere a la secuencia lineal de aminoácidos?",
-            "options": [
-                "Estructura secundaria",
-                "Estructura terciaria",
-                "Estructura cuaternaria",
-                "Estructura primaria",
-                "Estructura globular"
-            ],
-            "answer": "d"
-        },
-        {
             "question": "La hélice-α y la lámina plegada-β son ejemplos de:",
             "options": [
                 "Estructura primaria",
@@ -93,7 +71,7 @@
             "options": [
                 "Enlaces iónicos",
                 "Enlaces peptídicos",
-                "Enlaces de hidrógeno",
+                "Puentes de hidrógeno",
                 "Puentes disulfuro",
                 "Interacciones hidrofóbicas"
             ],
@@ -148,7 +126,7 @@
             "options": [
                 "La secuencia de aminoácidos del colágeno",
                 "La estructura secundaria de la miosina",
-                "La hemoglobina (sustitución de ácido glutámico por valina)",
+                "La hemoglobina en la sustitución de ácido glutámico por valina",
                 "Los puentes disulfuro de los anticuerpos",
                 "La conformación de la insulina"
             ],
@@ -180,7 +158,7 @@
             "question": "En condiciones celulares normales, los aminoácidos existen principalmente como:",
             "options": [
                 "Moléculas no polares",
-                "Iones dipolares (zwitteriones)",
+                "Zwitteriones",
                 "Formas desnaturalizadas",
                 "Estructuras cuaternarias",
                 "Moléculas con carga positiva"
@@ -190,11 +168,11 @@
         {
             "question": "¿Cuál de estos aminoácidos es esencial para los seres humanos?",
             "options": [
-                "Alanina",
-                "Glicina",
-                "Prolina",
-                "Treonina",
-                "Serina"
+                "Ala",
+                "Gly",
+                "Pro",
+                "Thr",
+                "Ser"
             ],
             "answer": "d"
         },
@@ -206,17 +184,6 @@
                 "Enlaces éster",
                 "Enlaces fosfodiéster",
                 "Puentes de hidrógeno"
-            ],
-            "answer": "b"
-        },
-        {
-            "question": "La hidroxiprolina, importante en el colágeno, se forma por modificación de:",
-            "options": [
-                "Lisina",
-                "Prolina",
-                "Valina",
-                "Ácido glutámico",
-                "Cisteína"
             ],
             "answer": "b"
         },
