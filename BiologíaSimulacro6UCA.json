@@ -26,7 +26,7 @@
             "question": "Los priones están compuestos principalmente de:",
             "options": [
                 "ADN circular",
-                "Proteínas mal plegadas (PrP^Sc)",
+                "Proteínas mal plegadas (PrP<sup>sc</sup>)",
                 "ARN de cadena doble",
                 "Lípidos estructurales",
                 "Carbohidratos complejos"
@@ -89,17 +89,6 @@
             "answer": "b"
         },
         {
-            "question": "Los virusoides requieren para su replicación:",
-            "options": [
-                "Mitocondrias del huésped",
-                "Un virus auxiliar",
-                "ADN polimerasa humana",
-                "Cloroplastos funcionales",
-                "Enzimas de hongos"
-            ],
-            "answer": "b"
-        },
-        {
             "question": "¿Qué componente del VIH facilita su entrada a células inmunitarias?",
             "options": [
                 "Cápside icosaédrica",
@@ -118,17 +107,6 @@
                 "ARN polimerasa II",
                 "Helicasa",
                 "ATP sintasa"
-            ],
-            "answer": "b"
-        },
-        {
-            "question": "Los virus gigantes (mimivirus) se distinguen por:",
-            "options": [
-                "Carecer de ADN",
-                "Genomas mayores que bacterias",
-                "Infectar solo plantas",
-                "Ser visibles a simple vista",
-                "Tener cloroplastos"
             ],
             "answer": "b"
         },
@@ -188,17 +166,6 @@
             "answer": "b"
         },
         {
-            "question": "¿Qué comparten viroides y virusoides?",
-            "options": [
-                "Tener cápside",
-                "Ser agentes subvirales de ARN",
-                "Causar enfermedades en humanos",
-                "Replicarse independientemente",
-                "Tener ADN circular"
-            ],
-            "answer": "b"
-        },
-        {
             "question": "El término 'virión' se refiere a:",
             "options": [
                 "Virus dentro del huésped",
@@ -243,7 +210,7 @@
             "answer": "b"
         },
         {
-            "question": "Los ARN satélites (virusoides) dependen de:",
+            "question": "Los ARN satélites virales dependen de:",
             "options": [
                 "Mitocondrias",
                 "Virus auxiliar",
