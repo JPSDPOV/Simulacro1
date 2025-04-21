@@ -1,0 +1,279 @@
+{
+    "questions": [
+        {
+            "question": "¿Qué característica diferencia principalmente a las arqueobacterias de las bacterias?",
+            "options": [
+                "Presencia de núcleo definido",
+                "Uso de lípidos con enlaces éster en la membrana",
+                "Presencia de lípidos con enlaces éter en la membrana",
+                "Capacidad de realizar fotosíntesis",
+                "Reproducción sexual"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Las arqueobacterias fueron reclasificadas como un dominio separado debido a:",
+            "options": [
+                "Su similitud genética con los eucariotas",
+                "Su capacidad de vivir en ambientes extremos",
+                "La ausencia de pared celular",
+                "Su uso de peptidoglicano en la membrana",
+                "Su tamaño microscópico"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "¿Qué componente está ausente en la pared celular de las arqueobacterias?",
+            "options": [
+                "Celulosa",
+                "Quitina",
+                "Peptidoglicano",
+                "Lípidos isoprenoides",
+                "Proteínas"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Las bacterias que habitan en el intestino humano y ayudan en la digestión son un ejemplo de:",
+            "options": [
+                "Parasitismo",
+                "Mutualismo",
+                "Comensalismo",
+                "Saprofitismo",
+                "Amensalismo"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué proceso metabólico es exclusivo de ciertas arqueobacterias?",
+            "options": [
+                "Fotosíntesis oxigénica",
+                "Metanogénesis",
+                "Fermentación láctica",
+                "Respiración aeróbica",
+                "Quimiosíntesis del azufre"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Las bacterias Gram positivas se distinguen por:",
+            "options": [
+                "Una membrana externa adicional",
+                "Una capa gruesa de peptidoglicano",
+                "Ausencia de pared celular",
+                "Lípidos de cadena ramificada",
+                "Presencia de cápsula"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué arqueobacteria está asociada con la obesidad en estudios humanos?",
+            "options": [
+                "Escherichia coli",
+                "Methanobrevibacter smithii",
+                "Thermus aquaticus",
+                "Halobacterium salinarum",
+                "Pyrococcus furiosus"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Las cianobacterias son importantes porque:",
+            "options": [
+                "Producen metano",
+                "Fijan nitrógeno atmosférico",
+                "Sintetizan antibióticos",
+                "Degradan petróleo",
+                "Son patógenos humanos"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué estructura permite a las bacterias intercambiar material genético?",
+            "options": [
+                "Flagelo",
+                "Pili sexual",
+                "Cápsula",
+                "Endospora",
+                "Ribosoma"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Las arqueas halófilas se encuentran principalmente en:",
+            "options": [
+                "Fuentes termales",
+                "Ambientes hipersalinos",
+                "Suelos ácidos",
+                "Aguas dulces",
+                "Tracto intestinal"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué componente de la membrana de las arqueobacterias les confiere resistencia a condiciones extremas?",
+            "options": [
+                "Ácidos grasos saturados",
+                "Lípidos isoprenoides en monocapa",
+                "Fosfolípidos con colesterol",
+                "Proteínas integrales",
+                "Glucolípidos"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Las bacterias que utilizan luz como fuente de energía y CO₂ como fuente de carbono son:",
+            "options": [
+                "Quimioheterótrofas",
+                "Fotoautótrofas",
+                "Fotoheterótrofas",
+                "Quimioautótrofas",
+                "Saprófitas"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Las arqueas son más cercanas evolutivamente a:",
+            "options": [
+                "Bacterias Gram negativas",
+                "Hongos",
+                "Plantas",
+                "Eucariotas",
+                "Virus"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "¿Qué enzima se utiliza en biotecnología, derivada de la arqueobacteria *Thermus aquaticus*?",
+            "options": [
+                "Amilasa",
+                "ADN ligasa",
+                "Taq polimerasa",
+                "Catalasa",
+                "Lipasa"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "La pared celular de las bacterias está compuesta principalmente por:",
+            "options": [
+                "Celulosa",
+                "Quitina",
+                "Peptidoglicano",
+                "Pseudomureína",
+                "Lípidos"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Las arqueas metanógenas son cruciales en:",
+            "options": [
+                "Producción de yogur",
+                "Tratamiento de aguas residuales",
+                "Síntesis de vitamina C",
+                "Fermentación alcohólica",
+                "Degradación de plásticos"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué forma es común tanto en bacterias como en arqueobacterias?",
+            "options": [
+                "Estrella",
+                "Cuadrado",
+                "Bacilo",
+                "Espiral",
+                "Filamento"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "La resistencia a antibióticos en bacterias se debe principalmente a:",
+            "options": [
+                "Presencia de endosporas",
+                "Transferencia horizontal de genes",
+                "Síntesis de lípidos especiales",
+                "Ausencia de membrana celular",
+                "Metabolismo anaeróbico"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Las arqueas del género *Halobacterium* utilizan para obtener energía:",
+            "options": [
+                "Metanogénesis",
+                "Bacteriorrodopsina",
+                "Fermentación",
+                "Fotosíntesis oxigénica",
+                "Quimiolitotrofía"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Las bacterias que requieren oxígeno para su metabolismo se clasifican como:",
+            "options": [
+                "Anaerobias estrictas",
+                "Anaerobias facultativas",
+                "Microaerófilas",
+                "Aerobias estrictas",
+                "Termófilas"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "¿Qué arqueobacteria se encuentra comúnmente en el tracto gastrointestinal humano?",
+            "options": [
+                "Escherichia coli",
+                "Methanosphaera stadmanae",
+                "Salmonella typhi",
+                "Lactobacillus acidophilus",
+                "Clostridium botulinum"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "La conjugación bacteriana implica la transferencia de:",
+            "options": [
+                "Plásmidos",
+                "Ribosomas",
+                "Endosporas",
+                "Flagelos",
+                "Toxinas"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "Las arqueas termófilas prosperan en temperaturas superiores a:",
+            "options": [
+                "20°C",
+                "45°C",
+                "80°C",
+                "100°C",
+                "200°C"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "¿Qué proceso realizan las bacterias nitrificantes?",
+            "options": [
+                "Reducen nitrógeno atmosférico",
+                "Oxidan amonio a nitrato",
+                "Producen metano",
+                "Fijan CO₂",
+                "Degradan celulosa"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Las endosporas bacterianas son estructuras de:",
+            "options": [
+                "Reproducción",
+                "Almacenamiento de nutrientes",
+                "Resistencia a condiciones adversas",
+                "Movilidad",
+                "Síntesis de proteínas"
+            ],
+            "answer": "c"
+        }
+    ]
+}
