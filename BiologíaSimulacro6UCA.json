@@ -1,0 +1,312 @@
+{
+    "questions": [
+        {
+            "question": "¿Qué característica define principalmente a los virus como agentes no vivos?",
+            "options": [
+                "Presencia de ADN y ARN simultáneamente",
+                "Incapacidad para replicarse sin un huésped",
+                "Producción de energía mediante ATP",
+                "Estructura celular procariota",
+                "Presencia de ribosomas propios"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué virus fue el primero en ser identificado científicamente?",
+            "options": [
+                "VIH",
+                "Virus de la influenza",
+                "Virus del mosaico del tabaco",
+                "Bacteriófago T4",
+                "Virus de la hepatitis B"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Los priones están compuestos principalmente de:",
+            "options": [
+                "ADN circular",
+                "Proteínas mal plegadas (PrP^Sc)",
+                "ARN de cadena doble",
+                "Lípidos estructurales",
+                "Carbohidratos complejos"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué estructura viral permite la unión a receptores específicos de la célula huésped?",
+            "options": [
+                "Cápside",
+                "Envoltura lipídica",
+                "Espículas de proteína",
+                "ARN satélite",
+                "Plásmido"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Los viroides se diferencian de los virus porque:",
+            "options": [
+                "Tienen cápside proteica",
+                "Requieren un virus auxiliar",
+                "Son ARN circular sin cápside",
+                "Infectan exclusivamente animales",
+                "Contienen ADN bicatenario"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "¿Qué enfermedad humana está asociada a priones?",
+            "options": [
+                "COVID-19",
+                "Enfermedad de Creutzfeldt-Jakob",
+                "Herpes zóster",
+                "Tuberculosis",
+                "Malaria"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "El ciclo lítico en bacteriófagos incluye:",
+            "options": [
+                "Integración del ADN viral al huésped",
+                "Lisis de la célula huésped",
+                "Producción de endosporas",
+                "Replicación silenciosa",
+                "Fotosíntesis"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué caracteriza a los virus envueltos?",
+            "options": [
+                "Cápside helicoidal",
+                "Membrana derivada del huésped",
+                "Genoma de ADN y ARN simultáneo",
+                "Infección exclusiva en plantas",
+                "Ausencia de proteínas"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Los virusoides requieren para su replicación:",
+            "options": [
+                "Mitocondrias del huésped",
+                "Un virus auxiliar",
+                "ADN polimerasa humana",
+                "Cloroplastos funcionales",
+                "Enzimas de hongos"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué componente del VIH facilita su entrada a células inmunitarias?",
+            "options": [
+                "Cápside icosaédrica",
+                "Proteína gp120",
+                "ARN ribosomal",
+                "Endonucleasas",
+                "Flagelo"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Los retrovirus como el VIH usan para replicarse:",
+            "options": [
+                "ADN polimerasa",
+                "Transcriptasa inversa",
+                "ARN polimerasa II",
+                "Helicasa",
+                "ATP sintasa"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Los virus gigantes (mimivirus) se distinguen por:",
+            "options": [
+                "Carecer de ADN",
+                "Genomas mayores que bacterias",
+                "Infectar solo plantas",
+                "Ser visibles a simple vista",
+                "Tener cloroplastos"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué mecanismo usan los viroides para replicarse?",
+            "options": [
+                "Rolling circle",
+                "Transcripción inversa",
+                "Síntesis de proteínas",
+                "Fusión de membranas",
+                "Gemación"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "La encefalopatía espongiforme bovina (EEB) es causada por:",
+            "options": [
+                "Bacterias",
+                "Priones",
+                "Viroides",
+                "Hongos",
+                "Protozoos"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué estructura falta en los viroides?",
+            "options": [
+                "ARN",
+                "Cápside",
+                "Proteínas",
+                "Envoltura lipídica",
+                "Plásmidos"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Los bacteriófagos infectan específicamente:",
+            "options": [
+                "Células animales",
+                "Hongos",
+                "Bacterias",
+                "Protozoos",
+                "Plantas"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "La envoltura del VIH se adquiere de:",
+            "options": [
+                "Cloroplastos",
+                "Membrana plasmática del huésped",
+                "Pared celular bacteriana",
+                "Retículo endoplásmico",
+                "Núcleo celular"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué comparten viroides y virusoides?",
+            "options": [
+                "Tener cápside",
+                "Ser agentes subvirales de ARN",
+                "Causar enfermedades en humanos",
+                "Replicarse independientemente",
+                "Tener ADN circular"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "El término 'virión' se refiere a:",
+            "options": [
+                "Virus dentro del huésped",
+                "Virus en fase latente",
+                "Partícula viral extracelular completa",
+                "Proteína priónica",
+                "ARN viral libre"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "¿Qué virus usa ARN como material genético?",
+            "options": [
+                "Adenovirus",
+                "VIH",
+                "Herpesvirus",
+                "Bacteriófago T4",
+                "Virus del papiloma"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "La patogenicidad de los priones se debe a:",
+            "options": [
+                "Mutaciones en el ADN",
+                "Plegamiento anormal de proteínas",
+                "Infección bacteriana",
+                "Daño en la membrana",
+                "Toxinas virales"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué virus es bacteriófago?",
+            "options": [
+                "Virus de la rabia",
+                "Fago lambda",
+                "Virus del Zika",
+                "Influenza A",
+                "Ébola"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Los ARN satélites (virusoides) dependen de:",
+            "options": [
+                "Mitocondrias",
+                "Virus auxiliar",
+                "Cloroplastos",
+                "Enzimas vegetales",
+                "Hongos"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué enfermedad vegetal es causada por viroides?",
+            "options": [
+                "Mosaico del tabaco",
+                "Fusarium oxysporum",
+                "Enrollamiento de la hoja",
+                "PSTVd (tubérculo fusiforme de la papa)",
+                "Roya del café"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "La cápside viral está compuesta por:",
+            "options": [
+                "Lípidos",
+                "Capsómeros proteicos",
+                "Ácidos nucleicos",
+                "Carbohidratos",
+                "Agua"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Los priones afectan principalmente:",
+            "options": [
+                "Sistema digestivo",
+                "Tejido nervioso",
+                "Piel",
+                "Músculos",
+                "Huesos"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "La terapia génica usa virus como:",
+            "options": [
+                "Patógenos",
+                "Vectores de genes",
+                "Fuentes de energía",
+                "Inhibidores",
+                "Anticuerpos"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "El ciclo lisogénico se caracteriza por:",
+            "options": [
+                "Lisis inmediata",
+                "Integración al genoma huésped",
+                "Producción de endosporas",
+                "Replicación en cloroplastos",
+                "Gemación celular"
+            ],
+            "answer": "b"
+        }
+    ]
+}
