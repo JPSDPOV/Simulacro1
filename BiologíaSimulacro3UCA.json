@@ -122,17 +122,6 @@
             "answer": "b"
         },
         {
-            "question": "¿Qué monosacárido es clave en la estructura del ácido siálico?",
-            "options": [
-                "Glucosa",
-                "Ácido pirúvico",
-                "Ribosa",
-                "Fructosa",
-                "Galactosa"
-            ],
-            "answer": "b"
-        },
-        {
             "question": "La N-acetilglucosamina participa principalmente en:",
             "options": [
                 "Enlaces O-glicosídicos",
@@ -144,17 +133,6 @@
             "answer": "b"
         },
         {
-            "question": "¿Qué caracteriza a los oligosacáridos unidos a proteínas?",
-            "options": [
-                "Son siempre lineales",
-                "Los ácidos siálicos suelen estar en el centro",
-                "Pueden estar ramificados",
-                "Solo se unen a lípidos",
-                "Contienen únicamente hexosas"
-            ],
-            "answer": "c"
-        },
-        {
             "question": "¿Cuál de estas hexosas es la principal fuente de energía celular?",
             "options": [
                 "Galactosa",
@@ -162,17 +140,6 @@
                 "Glucosa",
                 "Fructosa",
                 "Xilosa"
-            ],
-            "answer": "c"
-        },
-        {
-            "question": "El ácido N-acetilneuramínico se forma por la unión de:",
-            "options": [
-                "Glucosa + ácido pirúvico",
-                "Galactosa + ácido glucurónico",
-                "Aminohexosa + ácido pirúvico",
-                "N-acetilglucosamina + galactosa",
-                "Ribosa + desoxirribosa"
             ],
             "answer": "c"
         },
@@ -201,11 +168,11 @@
         {
             "question": "¿Qué tipo de enlace glucosídico predomina en el almidón?",
             "options": [
-                "α1-4",
-                "β1-4",
-                "α1-6",
-                "β1-3",
-                "α1-1"
+                "α 1-4",
+                "β 1-4",
+                "α 1-6",
+                "β 1-3",
+                "α 1-1"
             ],
             "answer": "a"
         },
