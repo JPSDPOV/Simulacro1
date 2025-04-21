@@ -1,0 +1,334 @@
+{
+    "questions": [
+        {
+            "question": "¿Cuál de los siguientes NO es un lípido?",
+            "options": [
+                "Triglicéridos",
+                "Fosfolípidos",
+                "Glucosa",
+                "Esteroides",
+                "Glicolípidos"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Los lípidos son insolubles en agua debido a:",
+            "options": [
+                "Su carga positiva",
+                "Sus cadenas hidrocarbonadas apolares",
+                "Su pequeño tamaño molecular",
+                "Su alta polaridad",
+                "Su capacidad de formar puentes de hidrógeno"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Los triglicéridos están formados por:",
+            "options": [
+                "1 glicerol + 2 ácidos grasos",
+                "1 glicerol + 3 ácidos grasos",
+                "1 glicerol + 1 ácido graso",
+                "2 gliceroles + 1 ácido graso",
+                "3 gliceroles + 1 ácido graso"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué característica tienen los ácidos grasos insaturados?",
+            "options": [
+                "No tienen dobles enlaces",
+                "Tienen al menos un doble enlace",
+                "Son sólidos a temperatura ambiente",
+                "Son exclusivamente de origen animal",
+                "Tienen cadenas ramificadas"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "La principal función de los triglicéridos es:",
+            "options": [
+                "Formar membranas celulares",
+                "Transportar oxígeno",
+                "Almacenar energía",
+                "Sintetizar ADN",
+                "Regular el pH"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "¿Cuál de estos es un fosfolípido?",
+            "options": [
+                "Triglicérido",
+                "Colesterol",
+                "Fosfatidilcolina",
+                "Cerebrósido",
+                "Isopreno"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "La estructura básica de los glicerofosfolípidos incluye:",
+            "options": [
+                "1 glicerol + 1 ácido graso + 1 fosfato",
+                "1 glicerol + 2 ácidos grasos + 1 fosfato",
+                "2 gliceroles + 1 ácido graso + 1 fosfato",
+                "1 glicerol + 3 ácidos grasos",
+                "1 esfingosina + 1 ácido graso"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué molécula es anfipática?",
+            "options": [
+                "Glucosa",
+                "Fosfolípido",
+                "Triglicérido",
+                "Isopreno",
+                "Colesterol puro"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "La esfingomielina es un tipo de:",
+            "options": [
+                "Glicerofosfolípido",
+                "Esfingolípido",
+                "Triglicérido",
+                "Poliprenoide",
+                "Esterol"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Dónde se encuentra principalmente la cardiolipina?",
+            "options": [
+                "Membrana plasmática",
+                "Membrana mitocondrial interna",
+                "Retículo endoplasmático",
+                "Núcleo celular",
+                "Lisosomas"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Los gangliósidos se diferencian de los cerebrósidos porque contienen:",
+            "options": [
+                "Ácidos grasos saturados",
+                "Ácidos siálicos",
+                "Solo glucosa",
+                "Colesterol",
+                "Fosfato"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "El colesterol es un tipo de:",
+            "options": [
+                "Fosfolípido",
+                "Triglicérido",
+                "Esterol",
+                "Glicolípido",
+                "Poliprenoide"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "¿Cuál de estos es un derivado del isopreno?",
+            "options": [
+                "Fosfatidilserina",
+                "Dolicol",
+                "Ácido palmítico",
+                "Esfingosina",
+                "Glucocerebrósido"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "La vitamina D es un:",
+            "options": [
+                "Ácido graso esencial",
+                "Esterol",
+                "Fosfolípido",
+                "Glicolípido",
+                "Triglicérido"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué característica tiene un ácido graso saturado?",
+            "options": [
+                "Dobles enlaces en su cadena",
+                "Solo enlaces simples entre carbonos",
+                "Es líquido a temperatura ambiente",
+                "Es exclusivamente de origen vegetal",
+                "Contiene grupos fosfato"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "La función principal de los fosfolípidos en la célula es:",
+            "options": [
+                "Almacenar energía",
+                "Formar bicapas lipídicas en membranas",
+                "Transportar electrones",
+                "Sintetizar hormonas",
+                "Regular la presión osmótica"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué componente NO forma parte de un glicolípido?",
+            "options": [
+                "Ceramida",
+                "Monosacárido",
+                "Ácido graso",
+                "Fosfato",
+                "Oligosacárido"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "La ubiquinona es importante en:",
+            "options": [
+                "La síntesis de colesterol",
+                "La cadena transportadora de electrones",
+                "La formación de membranas nucleares",
+                "La digestión de triglicéridos",
+                "La señalización hormonal"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué estructura es común a todos los esteroides?",
+            "options": [
+                "Anillo de benceno",
+                "Ciclopentanoperhidrofenantreno",
+                "Cadena lineal de isoprenos",
+                "Esqueleto de glicerol",
+                "Grupo carboxilo"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Cuál de estos lípidos NO es un componente de membranas celulares?",
+            "options": [
+                "Fosfatidilcolina",
+                "Esfingomielina",
+                "Triglicérido",
+                "Colesterol",
+                "Gangliósido"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "La fosfatidilinositol trifosfato (PIP3) participa en:",
+            "options": [
+                "Almacenamiento de energía",
+                "Señalización celular",
+                "Síntesis de ácidos biliares",
+                "Transporte de oxígeno",
+                "Digestión de lípidos"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué ácido graso tiene 18 carbonos y un doble enlace?",
+            "options": [
+                "Palmítico",
+                "Esteárico",
+                "Oleico",
+                "Araquidónico",
+                "Linoleico"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "La ceramida es un componente clave de:",
+            "options": [
+                "Triglicéridos",
+                "Fosfolípidos de membrana",
+                "Esfingolípidos",
+                "Esteroides",
+                "Poliprenoides"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "¿Qué propiedad permite a los fosfolípidos formar micelas en agua?",
+            "options": [
+                "Su carga neta positiva",
+                "Su naturaleza anfipática",
+                "Su alta solubilidad en agua",
+                "Su pequeño tamaño",
+                "Su capacidad de oxidarse"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "El dolicol participa en la síntesis de:",
+            "options": [
+                "Hormonas esteroideas",
+                "Glicoproteínas",
+                "Ácidos nucleicos",
+                "Triglicéridos",
+                "Vitaminas liposolubles"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué hormona NO es un esteroide?",
+            "options": [
+                "Cortisol",
+                "Insulina",
+                "Testosterona",
+                "Progesterona",
+                "Aldosterona"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Los ácidos biliares derivan del:",
+            "options": [
+                "Colesterol",
+                "Ácido palmítico",
+                "Glicerol",
+                "Isopreno",
+                "Fosfatidilcolina"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "¿Qué lípido es esencial para la fluidez de las membranas?",
+            "options": [
+                "Triglicéridos",
+                "Colesterol",
+                "Cerebrósidos",
+                "Ácidos grasos libres",
+                "Cardiolipina"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "La estructura de la esfingosina incluye:",
+            "options": [
+                "Un grupo fosfato",
+                "Un aminoálcool",
+                "Un anillo esteroide",
+                "Tres ácidos grasos",
+                "Un monosacárido"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué molécula contiene una benzoquinona?",
+            "options": [
+                "Fosfatidilserina",
+                "Ubiquinona",
+                "Esfingomielina",
+                "Vitamina D",
+                "Ácido oleico"
+            ],
+            "answer": "b"
+        }
+    ]
+}
