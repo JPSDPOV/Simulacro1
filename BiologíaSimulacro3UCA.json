@@ -14,11 +14,11 @@
         {
             "question": "La fórmula general de los monosacáridos es:",
             "options": [
-                "Cn(H2O)n",
-                "C6H12O6",
-                "C12H22O11",
-                "(C6H10O5)n",
-                "CH4N2O"
+                "Cn(H<sub>2</sub>O)n",
+                "C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
+                "C<sub>12</sub>H<sub>22<7sub>O<sub>11</sub>",
+                "(C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>)n",
+                "CH<sub>4</sub>N<sub>2</sub>O"
             ],
             "answer": "a"
         },
