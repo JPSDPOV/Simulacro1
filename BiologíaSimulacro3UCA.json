@@ -1,0 +1,345 @@
+{
+    "questions": [
+        {
+            "question": "¿Cuál es la principal función de los carbohidratos en la célula?",
+            "options": [
+                "Almacenar información genética",
+                "Ser la principal fuente de energía",
+                "Sintetizar proteínas",
+                "Formar barreras lipídicas",
+                "Transportar oxígeno"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "La fórmula general de los monosacáridos es:",
+            "options": [
+                "Cn(H2O)n",
+                "C6H12O6",
+                "C12H22O11",
+                "(C6H10O5)n",
+                "CH4N2O"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "¿Cuál de estos es un ejemplo de pentosa?",
+            "options": [
+                "Glucosa",
+                "Galactosa",
+                "Ribosa",
+                "Fructosa",
+                "Ácido glucurónico"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "La lactosa es un disacárido formado por:",
+            "options": [
+                "Glucosa + fructosa",
+                "Glucosa + galactosa",
+                "Dos moléculas de glucosa",
+                "Ribosa + desoxirribosa",
+                "Galactosa + manosa"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Los oligosacáridos se unen a proteínas mediante enlaces:",
+            "options": [
+                "Fosfodiéster",
+                "O-glicosídico o N-glicosídico",
+                "Puente disulfuro",
+                "Iónicos",
+                "Éster"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué monosacárido está directamente unido a la proteína en un enlace N-glicosídico?",
+            "options": [
+                "Ácido siálico",
+                "N-acetilgalactosamina",
+                "N-acetilglucosamina",
+                "Galactosa",
+                "Xilosa"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "El glucógeno es un polisacárido con enlaces:",
+            "options": [
+                "β1-4",
+                "α1-4 y α1-6",
+                "Exclusivamente α1-6",
+                "β1-3",
+                "Entre ácidos siálicos"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Cuál de estos polisacáridos es estructural en plantas?",
+            "options": [
+                "Glucógeno",
+                "Almidón",
+                "Celulosa",
+                "Ácido hialurónico",
+                "Queratano sulfato"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Los glicosaminoglicanos (GAG) están compuestos por:",
+            "options": [
+                "Monómeros de aminoácidos",
+                "Unidades repetitivas de disacáridos",
+                "Ácidos grasos y glicerol",
+                "Nucleótidos",
+                "Péptidos cortos"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué GAG NO está sulfatado?",
+            "options": [
+                "Sulfato de condroitina",
+                "Ácido hialurónico",
+                "Sulfato de dermatano",
+                "Sulfato de heparano",
+                "Sulfato de queratano"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "En los proteoglicanos, el GAG se une a la proteína mediante:",
+            "options": [
+                "Un enlace peptídico",
+                "Un tetrasacárido (xilosa + 2 galactosas + ácido glucurónico)",
+                "Ácido siálico",
+                "N-acetilgalactosamina",
+                "Puentes de hidrógeno"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "La xilosa en los proteoglicanos se conecta a:",
+            "options": [
+                "Asparagina",
+                "Serina",
+                "Treonina",
+                "Ácido glucurónico",
+                "N-acetilglucosamina"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué monosacárido es clave en la estructura del ácido siálico?",
+            "options": [
+                "Glucosa",
+                "Ácido pirúvico",
+                "Ribosa",
+                "Fructosa",
+                "Galactosa"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "La N-acetilglucosamina participa principalmente en:",
+            "options": [
+                "Enlaces O-glicosídicos",
+                "Enlaces N-glicosídicos",
+                "Síntesis de celulosa",
+                "Formación de lactosa",
+                "Polimerización del almidón"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué caracteriza a los oligosacáridos unidos a proteínas?",
+            "options": [
+                "Son siempre lineales",
+                "Los ácidos siálicos suelen estar en el centro",
+                "Pueden estar ramificados",
+                "Solo se unen a lípidos",
+                "Contienen únicamente hexosas"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "¿Cuál de estas hexosas es la principal fuente de energía celular?",
+            "options": [
+                "Galactosa",
+                "Manosa",
+                "Glucosa",
+                "Fructosa",
+                "Xilosa"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "El ácido N-acetilneuramínico se forma por la unión de:",
+            "options": [
+                "Glucosa + ácido pirúvico",
+                "Galactosa + ácido glucurónico",
+                "Aminohexosa + ácido pirúvico",
+                "N-acetilglucosamina + galactosa",
+                "Ribosa + desoxirribosa"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "En los oligosacáridos unidos por enlace O-glicosídico, ¿qué monosacárido suele estar unido directamente a la proteína?",
+            "options": [
+                "Ácido siálico",
+                "N-acetilgalactosamina",
+                "Galactosa",
+                "Manosa",
+                "Xilosa"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "El núcleo común de los oligosacáridos unidos por enlace N-glicosídico contiene:",
+            "options": [
+                "2 N-acetilglucosaminas + 3 manosas",
+                "3 galactosas + 1 xilosa",
+                "Ácido siálico + ácido glucurónico",
+                "2 fructosas + 3 glucosas",
+                "1 ribosa + 1 desoxirribosa"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "¿Qué tipo de enlace glucosídico predomina en el almidón?",
+            "options": [
+                "α1-4",
+                "β1-4",
+                "α1-6",
+                "β1-3",
+                "α1-1"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "La fórmula general de los polisacáridos es:",
+            "options": [
+                "Cn(H2O)n",
+                "C6H12O6",
+                "C12H22O11",
+                "(C6H10O5)n",
+                "C3H6O3"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "¿Qué polisacárido es la principal reserva energética en animales?",
+            "options": [
+                "Almidón",
+                "Celulosa",
+                "Glucógeno",
+                "Queratano sulfato",
+                "Ácido hialurónico"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "¿Qué componente del proteoglicano se une directamente a la serina de la proteína?",
+            "options": [
+                "Ácido glucurónico",
+                "Galactosa",
+                "Xilosa",
+                "N-acetilgalactosamina",
+                "Ácido siálico"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "¿Cuál de estos NO es un glicosaminoglicano (GAG)?",
+            "options": [
+                "Ácido hialurónico",
+                "Sulfato de condroitina",
+                "Celulosa",
+                "Sulfato de dermatano",
+                "Sulfato de heparano"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "En la estructura del proteoglicano, ¿qué monosacáridos forman el tetrasacárido de unión?",
+            "options": [
+                "Xilosa + 2 galactosas + ácido glucurónico",
+                "2 N-acetilglucosaminas + 2 manosas",
+                "Ácido siálico + 3 galactosas",
+                "Ribosa + desoxirribosa + 2 glucosas",
+                "Fructosa + 3 ácidos glucurónicos"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "¿Qué característica distingue al ácido hialurónico de otros GAG?",
+            "options": [
+                "No está sulfatado",
+                "Contiene ácido siálico",
+                "Se une a proteínas por enlace N-glicosídico",
+                "Es un polisacárido ramificado",
+                "Está compuesto por triosas"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "¿Qué tipo de enlace glucosídico se encuentra en los puntos de ramificación del glucógeno?",
+            "options": [
+                "α1-4",
+                "β1-4",
+                "α1-6",
+                "β1-3",
+                "α1-2"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "¿Qué aminoácido participa en el enlace N-glicosídico de oligosacáridos?",
+            "options": [
+                "Serina",
+                "Treonina",
+                "Asparagina",
+                "Glicina",
+                "Alanina"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "¿Qué monómero es común en almidón, glucógeno y celulosa?",
+            "options": [
+                "Galactosa",
+                "Glucosa",
+                "Fructosa",
+                "Ribosa",
+                "Manosa"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Dónde predominan los proteoglicanos?",
+            "options": [
+                "En el núcleo celular",
+                "En el citoplasma",
+                "En el medio extracelular",
+                "En la membrana plasmática",
+                "En los ribosomas"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "¿Qué estructura es característica de la celulosa?",
+            "options": [
+                "Enlaces α1-4 entre glucosas",
+                "Enlaces β1-4 entre glucosas",
+                "Ramificaciones α1-6",
+                "Contiene ácido siálico",
+                "Forma hélices compactas"
+            ],
+            "answer": "b"
+        }
+    ]
+}
