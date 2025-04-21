@@ -177,17 +177,6 @@
             "answer": "a"
         },
         {
-            "question": "La fórmula general de los polisacáridos es:",
-            "options": [
-                "Cn(H2O)n",
-                "C6H12O6",
-                "C12H22O11",
-                "(C6H10O5)n",
-                "C3H6O3"
-            ],
-            "answer": "d"
-        },
-        {
             "question": "¿Qué polisacárido es la principal reserva energética en animales?",
             "options": [
                 "Almidón",
@@ -245,11 +234,11 @@
         {
             "question": "¿Qué tipo de enlace glucosídico se encuentra en los puntos de ramificación del glucógeno?",
             "options": [
-                "α1-4",
-                "β1-4",
-                "α1-6",
-                "β1-3",
-                "α1-2"
+                "α 1-4",
+                "β 1-4",
+                "α 1-6",
+                "β 1-2",
+                "α 1-2"
             ],
             "answer": "c"
         },
@@ -289,9 +278,9 @@
         {
             "question": "¿Qué estructura es característica de la celulosa?",
             "options": [
-                "Enlaces α1-4 entre glucosas",
-                "Enlaces β1-4 entre glucosas",
-                "Ramificaciones α1-6",
+                "Enlaces α 1-4 entre glucosas",
+                "Enlaces β 1-4 entre glucosas",
+                "Ramificaciones α 1-6",
                 "Contiene ácido siálico",
                 "Forma hélices compactas"
             ],
