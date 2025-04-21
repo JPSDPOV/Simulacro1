@@ -69,11 +69,11 @@
         {
             "question": "El glucógeno es un polisacárido con enlaces:",
             "options": [
-                "β1-4",
-                "α1-4 y α1-6",
+                "β 1-4",
+                "α 1-4 y α 1-6",
                 "Exclusivamente α1-6",
-                "β1-3",
-                "Entre ácidos siálicos"
+                "β 1-4",
+                "α 1-2"
             ],
             "answer": "b"
         },
@@ -96,17 +96,6 @@
                 "Ácidos grasos y glicerol",
                 "Nucleótidos",
                 "Péptidos cortos"
-            ],
-            "answer": "b"
-        },
-        {
-            "question": "¿Qué GAG NO está sulfatado?",
-            "options": [
-                "Sulfato de condroitina",
-                "Ácido hialurónico",
-                "Sulfato de dermatano",
-                "Sulfato de heparano",
-                "Sulfato de queratano"
             ],
             "answer": "b"
         },
