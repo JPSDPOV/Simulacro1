@@ -1,1 +1,334 @@
-
+{
+    "questions": [
+        {
+            "question": "¿Cuál de las siguientes es la función principal de las enzimas?",
+            "options": [
+                "Transportar oxígeno",
+                "Catalizar reacciones químicas específicas",
+                "Fortalecer tejidos",
+                "Almacenar nutrientes",
+                "Defender contra patógenos"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "El colágeno es un ejemplo de proteína:",
+            "options": [
+                "De transporte",
+                "Estructural",
+                "Reguladora",
+                "De almacenamiento",
+                "Enzimática"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "La hemoglobina transporta oxígeno en los eritrocitos. ¿A qué clase de proteínas pertenece?",
+            "options": [
+                "Proteínas de defensa",
+                "Proteínas de transporte",
+                "Proteínas estructurales",
+                "Proteínas reguladoras",
+                "Proteínas de movimiento"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Cuál de estas proteínas es un ejemplo de proteína de almacenamiento?",
+            "options": [
+                "Actina",
+                "Ovoalbúmina",
+                "Insulina",
+                "Colágeno",
+                "Anticuerpos"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "La insulina es una hormona proteica. ¿A qué clase de proteínas pertenece?",
+            "options": [
+                "Proteínas estructurales",
+                "Proteínas reguladoras",
+                "Proteínas de defensa",
+                "Proteínas de movimiento",
+                "Proteínas de transporte"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué proteínas son esenciales para la contracción muscular?",
+            "options": [
+                "Queratinas",
+                "Actina y miosina",
+                "Hemoglobinas",
+                "Colágenos",
+                "Anticuerpos"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Los anticuerpos cumplen funciones en el sistema inmune. ¿A qué clase de proteínas pertenecen?",
+            "options": [
+                "Proteínas de transporte",
+                "Proteínas de defensa",
+                "Proteínas reguladoras",
+                "Proteínas estructurales",
+                "Proteínas de almacenamiento"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Cuál es el nivel de organización proteica que se refiere a la secuencia lineal de aminoácidos?",
+            "options": [
+                "Estructura secundaria",
+                "Estructura terciaria",
+                "Estructura cuaternaria",
+                "Estructura primaria",
+                "Estructura globular"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "La hélice-α y la lámina plegada-β son ejemplos de:",
+            "options": [
+                "Estructura primaria",
+                "Estructura secundaria",
+                "Estructura terciaria",
+                "Estructura cuaternaria",
+                "Desnaturalización proteica"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué tipo de enlaces son principalmente responsables de mantener la estructura secundaria de las proteínas?",
+            "options": [
+                "Enlaces iónicos",
+                "Enlaces peptídicos",
+                "Enlaces de hidrógeno",
+                "Puentes disulfuro",
+                "Interacciones hidrofóbicas"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "La estructura terciaria de una proteína está determinada principalmente por interacciones entre:",
+            "options": [
+                "Átomos del esqueleto peptídico",
+                "Grupos R de los aminoácidos",
+                "Moléculas de agua circundantes",
+                "Iones metálicos",
+                "Grupos amino terminales"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué tipo de enlace covalente puede formarse entre cisteínas para estabilizar la estructura terciaria?",
+            "options": [
+                "Enlace de hidrógeno",
+                "Enlace iónico",
+                "Puente disulfuro",
+                "Enlace fosfodiéster",
+                "Enlace glucosídico"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "La hemoglobina, compuesta por cuatro cadenas polipeptídicas, es un ejemplo de proteína con:",
+            "options": [
+                "Estructura primaria compleja",
+                "Estructura secundaria mixta",
+                "Estructura terciaria fibrosa",
+                "Estructura cuaternaria",
+                "Dominios múltiples"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "¿Cuál de las siguientes NO es una interacción que contribuye a la estructura cuaternaria de las proteínas?",
+            "options": [
+                "Enlaces de hidrógeno",
+                "Enlaces iónicos",
+                "Interacciones hidrofóbicas",
+                "Puentes disulfuro",
+                "Enlaces peptídicos"
+            ],
+            "answer": "e"
+        },
+        {
+            "question": "La anemia de células falciformes es causada por una mutación que afecta a:",
+            "options": [
+                "La secuencia de aminoácidos del colágeno",
+                "La estructura secundaria de la miosina",
+                "La hemoglobina (sustitución de ácido glutámico por valina)",
+                "Los puentes disulfuro de los anticuerpos",
+                "La conformación de la insulina"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "El proceso por el cual una proteína pierde su estructura tridimensional y su función se denomina:",
+            "options": [
+                "Hidrólisis",
+                "Desnaturalización",
+                "Catabolismo",
+                "Translación",
+                "Fosforilación"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Cuál de estos factores puede causar desnaturalización proteica?",
+            "options": [
+                "Cambios de pH",
+                "Aumento de temperatura",
+                "Presencia de sustancias químicas",
+                "Todos los anteriores",
+                "Ninguno de los anteriores"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "En condiciones celulares normales, los aminoácidos existen principalmente como:",
+            "options": [
+                "Moléculas no polares",
+                "Iones dipolares (zwitteriones)",
+                "Formas desnaturalizadas",
+                "Estructuras cuaternarias",
+                "Moléculas con carga positiva"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Cuál de estos aminoácidos es esencial para los seres humanos?",
+            "options": [
+                "Alanina",
+                "Glicina",
+                "Prolina",
+                "Treonina",
+                "Serina"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "Los aminoácidos se unen entre sí mediante:",
+            "options": [
+                "Enlaces glucosídicos",
+                "Enlaces peptídicos",
+                "Enlaces éster",
+                "Enlaces fosfodiéster",
+                "Puentes de hidrógeno"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "La hidroxiprolina, importante en el colágeno, se forma por modificación de:",
+            "options": [
+                "Lisina",
+                "Prolina",
+                "Valina",
+                "Ácido glutámico",
+                "Cisteína"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué propiedad de las proteínas globulares las hace solubles en agua?",
+            "options": [
+                "Superficie polar",
+                "Núcleo hidrofóbico",
+                "Presencia de grupos fosfato",
+                "Estructura fibrosa",
+                "Ausencia de grupos R"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "Las proteínas modulares:",
+            "options": [
+                "Solo tienen estructura primaria",
+                "Carecen de dominios funcionales",
+                "Poseen múltiples dominios con funciones distintas",
+                "Son exclusivamente fibrosas",
+                "No pueden plegarse espontáneamente"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "¿Qué técnica se utiliza comúnmente para determinar la estructura 3D de las proteínas?",
+            "options": [
+                "Electroforesis",
+                "Cromatografía",
+                "Difracción de rayos X",
+                "PCR",
+                "Secuenciación de Sanger"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Las chaperonas moleculares ayudan a:",
+            "options": [
+                "Sintetizar nuevos aminoácidos",
+                "Romper proteínas dañadas",
+                "Plegar correctamente otras proteínas",
+                "Transportar proteínas al núcleo",
+                "Modificar grupos R"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "¿Qué enfermedad está asociada con proteínas mal plegadas (priones)?",
+            "options": [
+                "Anemia falciforme",
+                "Enfermedad de las vacas locas",
+                "Diabetes mellitus",
+                "Fibrosis quística",
+                "Albinismo"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "La ceína, proteína de almacenamiento en el maíz, se clasifica como:",
+            "options": [
+                "Proteína estructural",
+                "Proteína de defensa",
+                "Proteína de reserva nutritiva",
+                "Proteína reguladora",
+                "Proteína motora"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "¿Qué característica distingue a las proteínas fibrosas como el colágeno?",
+            "options": [
+                "Forma esférica compacta",
+                "Estructura alargada e insoluble",
+                "Presencia de múltiples dominios",
+                "Función enzimática",
+                "Capacidad de unirse a oxígeno"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "En la estructura cuaternaria del colágeno:",
+            "options": [
+                "Dos cadenas se enrollan entre sí",
+                "Tres cadenas forman una triple hélice",
+                "Cuatro subunidades forman un tetrámero",
+                "Una sola cadena se pliega en dominios",
+                "No existe estructura cuaternaria"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "¿Qué propiedad de los aminoácidos los hace buenos amortiguadores biológicos?",
+            "options": [
+                "Pueden aceptar o donar protones",
+                "Son siempre neutros",
+                "Forman puentes disulfuro",
+                "Tienen cadenas laterales no polares",
+                "Poseen grupos fosfato"
+            ],
+            "answer": "a"
+        }
+    ]
+}
