@@ -177,28 +177,6 @@
             "answer": "b"
         },
         {
-            "question": "¿Qué componente NO forma parte de un glicolípido?",
-            "options": [
-                "Ceramida",
-                "Monosacárido",
-                "Ácido graso",
-                "Fosfato",
-                "Oligosacárido"
-            ],
-            "answer": "d"
-        },
-        {
-            "question": "La ubiquinona es importante en:",
-            "options": [
-                "La síntesis de colesterol",
-                "La cadena transportadora de electrones",
-                "La formación de membranas nucleares",
-                "La digestión de triglicéridos",
-                "La señalización hormonal"
-            ],
-            "answer": "b"
-        },
-        {
             "question": "¿Qué estructura es común a todos los esteroides?",
             "options": [
                 "Anillo de benceno",
@@ -221,17 +199,6 @@
             "answer": "c"
         },
         {
-            "question": "La fosfatidilinositol trifosfato (PIP3) participa en:",
-            "options": [
-                "Almacenamiento de energía",
-                "Señalización celular",
-                "Síntesis de ácidos biliares",
-                "Transporte de oxígeno",
-                "Digestión de lípidos"
-            ],
-            "answer": "b"
-        },
-        {
             "question": "¿Qué ácido graso tiene 18 carbonos y un doble enlace?",
             "options": [
                 "Palmítico",
@@ -239,17 +206,6 @@
                 "Oleico",
                 "Araquidónico",
                 "Linoleico"
-            ],
-            "answer": "c"
-        },
-        {
-            "question": "La ceramida es un componente clave de:",
-            "options": [
-                "Triglicéridos",
-                "Fosfolípidos de membrana",
-                "Esfingolípidos",
-                "Esteroides",
-                "Poliprenoides"
             ],
             "answer": "c"
         },
@@ -318,17 +274,7 @@
                 "Un monosacárido"
             ],
             "answer": "b"
-        },
-        {
-            "question": "¿Qué molécula contiene una benzoquinona?",
-            "options": [
-                "Fosfatidilserina",
-                "Ubiquinona",
-                "Esfingomielina",
-                "Vitamina D",
-                "Ácido oleico"
-            ],
-            "answer": "b"
         }
+        
     ]
 }
