@@ -252,6 +252,28 @@
                 "forman enlaces covalentes"
             ],
             "answer": "b"
+        },
+        {
+            "question": "La estructura de un gangliósido está formada por:",
+            "options": [
+                "Ceramida + galactosa",
+                "Ceramida + oligosacárido",
+                "Ceramida + N-acetilglucosamina",
+                "Ceramida + glucosa",
+                "Ceramida + colina"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Es un aminoácido polar aromático que presenta un grupo hidroxilo",
+            "options": [
+                "Serina",
+                "Tirosina",
+                "Fenilalanina",
+                "Treonina",
+                "Triptófano"
+            ],
+            "answer": "b"
         }
     ]
 }
